@@ -184,7 +184,7 @@ p.nominalBounds = new cjs.Rectangle(-1,-1,102,52);
 
 
 // stage content:
-(lib.PracticeCardAcorreaALEXANDERCORREA = function(mode,startPosition,loop) {
+(lib.PracticeCardAcorrea = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// timeline functions:
