@@ -11,7 +11,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="authoring-tool" content="Adobe_Animate_CC">
-<title>AnimatedCard-XPrudencio</title>
+<title>MPHFinal-RParra</title>
 <!-- write your code here -->
 <style>
   #animation_container {
@@ -22,14 +22,14 @@
   }
 </style>
 <script src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>
-<script src="AnimatedCard-XPrudencio.js?1525968762714"></script>
+<script src="MPHFinal-RParra.js?1527102914658"></script>
 <script>
 var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
 function init() {
 	canvas = document.getElementById("canvas");
 	anim_container = document.getElementById("animation_container");
 	dom_overlay_container = document.getElementById("dom_overlay_container");
-	var comp=AdobeAn.getComposition("022056BFB027D44DAD5781A575EA5EC3");
+	var comp=AdobeAn.getComposition("EA2F94B9C7C4D14D9FC9A7C1DE351D47");
 	var lib=comp.getLibrary();
 	handleComplete({},comp);
 }
@@ -37,7 +37,7 @@ function handleComplete(evt,comp) {
 	//This function is always called, irrespective of the content. You can use the variable "stage" after it is created in token create_stage.
 	var lib=comp.getLibrary();
 	var ss=comp.getSpriteSheet();
-	exportRoot = new lib.AnimatedCardXPrudencio();
+	exportRoot = new lib.MPHFinalRParra();
 	stage = new lib.Stage(canvas);
 	stage.enableMouseOver();	
 	//Registers the "tick" event listener.
@@ -90,9 +90,9 @@ function handleComplete(evt,comp) {
 <!-- write your code here -->
 </head>
 <body onload="init();" style="margin:0px;">
-	<div id="animation_container" style="background-color:rgba(204, 204, 204, 1.00); width:1024px; height:768px">
-		<canvas id="canvas" width="1024" height="768" style="position: absolute; display: block; background-color:rgba(204, 204, 204, 1.00);"></canvas>
-		<div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; width:1024px; height:768px; position: absolute; left: 0px; top: 0px; display: block;">
+	<div id="animation_container" style="background-color:rgba(153, 153, 153, 1.00); width:756px; height:575px">
+		<canvas id="canvas" width="756" height="575" style="position: absolute; display: block; background-color:rgba(153, 153, 153, 1.00);"></canvas>
+		<div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; width:756px; height:575px; position: absolute; left: 0px; top: 0px; display: block;">
 		</div>
 	</div>
 </body>

@@ -11,17 +11,34 @@
 <head>
 <meta charset="UTF-8">
 <meta name="authoring-tool" content="Adobe_Animate_CC">
-<title>PracticeCard-AMerida </title>
+<title>MPHFinal-RAppelgate</title>
 <!-- write your code here -->
+<style>
+  #animation_container {
+	position:absolute;
+	margin:auto;
+	left:0;right:0;
+	top:0;bottom:0;
+  }
+</style>
 <script src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>
-<script src="PracticeCard-AMerida .js?1524539701651"></script>
+<script src="MPHFinal-RAppelgate.js?1527103307182"></script>
+<script>
+// Global Scripts
+	his.btn_name.addEventListener("click", fl_ClickFunctionName.bind(this));
+function fl_ClickFunctionName()
+{
+	// // Move a symbol with the name symbol_instance_name to (100,100)
+this.symbol_instance_name.x = 100;
+this.symbol_instance_name.y = 100;
+}</script>
 <script>
 var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
 function init() {
 	canvas = document.getElementById("canvas");
 	anim_container = document.getElementById("animation_container");
 	dom_overlay_container = document.getElementById("dom_overlay_container");
-	var comp=AdobeAn.getComposition("9A1A6A341E03634DAD6E8E57E3494190");
+	var comp=AdobeAn.getComposition("EA2F94B9C7C4D14D9FC9A7C1DE351D47");
 	var lib=comp.getLibrary();
 	handleComplete({},comp);
 }
@@ -29,7 +46,7 @@ function handleComplete(evt,comp) {
 	//This function is always called, irrespective of the content. You can use the variable "stage" after it is created in token create_stage.
 	var lib=comp.getLibrary();
 	var ss=comp.getSpriteSheet();
-	exportRoot = new lib.PracticeCardAMerida();
+	exportRoot = new lib.MPHFinalRAppelgate();
 	stage = new lib.Stage(canvas);
 	stage.enableMouseOver();	
 	//Registers the "tick" event listener.
@@ -74,7 +91,7 @@ function handleComplete(evt,comp) {
 			stage.tickOnUpdate = true;		
 		}
 	}
-	makeResponsive(false,'both',false,1);	
+	makeResponsive(true,'both',false,1);	
 	AdobeAn.compositionLoaded(lib.properties.id);
 	fnStartAnimation();
 }
@@ -82,9 +99,9 @@ function handleComplete(evt,comp) {
 <!-- write your code here -->
 </head>
 <body onload="init();" style="margin:0px;">
-	<div id="animation_container" style="background-color:rgba(255, 204, 255, 1.00); width:1024px; height:768px">
-		<canvas id="canvas" width="1024" height="768" style="position: absolute; display: block; background-color:rgba(255, 204, 255, 1.00);"></canvas>
-		<div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; width:1024px; height:768px; position: absolute; left: 0px; top: 0px; display: block;">
+	<div id="animation_container" style="background-color:rgba(153, 153, 153, 1.00); width:756px; height:575px">
+		<canvas id="canvas" width="756" height="575" style="position: absolute; display: block; background-color:rgba(153, 153, 153, 1.00);"></canvas>
+		<div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; width:756px; height:575px; position: absolute; left: 0px; top: 0px; display: block;">
 		</div>
 	</div>
 </body>
