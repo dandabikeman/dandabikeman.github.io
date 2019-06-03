@@ -296,7 +296,7 @@ p.nominalBounds = new cjs.Rectangle(-49.8,-14,104.6,27.4);
 
 
 // stage content:
-(lib.ClickGame1Kharrison = function(mode,startPosition,loop) {
+(lib.ClickGame1KHarrison = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{Start:0,Game:10,GameOver:20,"Game":10});
 
 	// timeline functions:
