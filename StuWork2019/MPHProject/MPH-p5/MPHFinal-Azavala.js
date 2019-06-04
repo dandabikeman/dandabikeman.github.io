@@ -175,7 +175,7 @@ p.nominalBounds = new cjs.Rectangle(-1,-1,45.3,45.3);
 
 
 // stage content:
-(lib.MPHFinalAzavala = function(mode,startPosition,loop) {
+(lib.MPHFinalAZavala = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// timeline functions:

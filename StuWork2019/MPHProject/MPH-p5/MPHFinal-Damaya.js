@@ -574,7 +574,7 @@ p.nominalBounds = new cjs.Rectangle(-29,-29,58,58);
 
 
 // stage content:
-(lib.MPHFinalDamaya = function(mode,startPosition,loop) {
+(lib.MPHFinalDAmaya = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// timeline functions:

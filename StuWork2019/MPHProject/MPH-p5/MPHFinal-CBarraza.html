@@ -11,25 +11,17 @@
 <head>
 <meta charset="UTF-8">
 <meta name="authoring-tool" content="Adobe_Animate_CC">
-<title>MPHFinal-DAmaya</title>
+<title>MPHFinal-CBarraza</title>
 <!-- write your code here -->
-<style>
-  #animation_container {
-	position:absolute;
-	margin:auto;
-	left:0;right:0;
-	top:0;bottom:0;
-  }
-</style>
 <script src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>
-<script src="MPHFinal-DAmaya.js?1559620593267"></script>
+<script src="MPHFinal-CBarraza.js?1559621282441"></script>
 <script>
 var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
 function init() {
 	canvas = document.getElementById("canvas");
 	anim_container = document.getElementById("animation_container");
 	dom_overlay_container = document.getElementById("dom_overlay_container");
-	var comp=AdobeAn.getComposition("EA2F94B9C7C4D14D9FC9A7C1DE351D47");
+	var comp=AdobeAn.getComposition("F381CDB81465724F9948D4B0B919561B");
 	var lib=comp.getLibrary();
 	handleComplete({},comp);
 }
@@ -37,7 +29,7 @@ function handleComplete(evt,comp) {
 	//This function is always called, irrespective of the content. You can use the variable "stage" after it is created in token create_stage.
 	var lib=comp.getLibrary();
 	var ss=comp.getSpriteSheet();
-	exportRoot = new lib.MPHFinalDAmaya();
+	exportRoot = new lib.MPHFinalCBarraza();
 	stage = new lib.Stage(canvas);
 	stage.enableMouseOver();	
 	//Registers the "tick" event listener.
@@ -82,7 +74,7 @@ function handleComplete(evt,comp) {
 			stage.tickOnUpdate = true;		
 		}
 	}
-	makeResponsive(true,'both',false,1);	
+	makeResponsive(false,'both',false,1);	
 	AdobeAn.compositionLoaded(lib.properties.id);
 	fnStartAnimation();
 }
@@ -90,9 +82,9 @@ function handleComplete(evt,comp) {
 <!-- write your code here -->
 </head>
 <body onload="init();" style="margin:0px;">
-	<div id="animation_container" style="background-color:rgba(153, 153, 153, 1.00); width:756px; height:575px">
-		<canvas id="canvas" width="756" height="575" style="position: absolute; display: block; background-color:rgba(153, 153, 153, 1.00);"></canvas>
-		<div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; width:756px; height:575px; position: absolute; left: 0px; top: 0px; display: block;">
+	<div id="animation_container" style="background-color:rgba(204, 204, 255, 1.00); width:550px; height:400px">
+		<canvas id="canvas" width="550" height="400" style="position: absolute; display: block; background-color:rgba(204, 204, 255, 1.00);"></canvas>
+		<div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; width:550px; height:400px; position: absolute; left: 0px; top: 0px; display: block;">
 		</div>
 	</div>
 </body>
