@@ -1,0 +1,95 @@
+@charset "UTF-8";
+/* Simplify width and height calculations */
+html {
+	box-sizing: border-box;
+}
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+body { /* The entire html page */
+	margin: 0;
+	color: #444444;
+	font-family: wellfleet;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 100%;
+	background-color: #DDD8CF; /* page backround */
+}
+#wrapper { /* the block of all items on the page */
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1000px; /* This block will be no larger than 1000 px */
+	background-color: white;
+}
+h1, h2 {
+	color: #0D0D0D;
+	font-style: normal;
+	font-weight: 400;
+	margin-top: 0px;	/* removes the extra space (body->background-color) above the heading */
+	padding-top: 0.2em;
+	padding-left: 0.2em;
+	padding-bottom: 0px;
+}
+h1 {
+}
+/* Design of links */
+a {
+	text-decoration: none; /* no underline on links */
+}
+a:link { /* Set link color - bright red */
+	color: #CC0707;
+}
+a:visited { /* Set visited link color - dark red */
+	color: #950808;
+}
+a:hover, a:active, a:focus {
+	text-decoration: underline;
+}
+/* This is the navigation CSS */
+#menulink {
+	margin: 0;
+	text-align: left;
+	background-color: #444444;
+}
+#menulink a {
+	color: white;
+	font-weight: 200;
+	display: block;
+}
+#navlinks { /* Create the blocks around the nav links */
+	margin: 0;
+	/* [disabled]width: 100%; */
+	/* [disabled]text-align: center; */
+	list-style-type: none;	/* Remove the bullets */
+	background-color: #444444; /* Over-ride the 0.65 alpha below if the browser does not support it */
+	background-color: rgba(0,0,0,0.85);
+	position: absolute;
+	-webkit-transition: all ease-out 0.5s;
+	transition: all ease-out 0.5s;
+	padding-top: 5px;
+	padding-left: 20px;
+	padding-right: 10px;
+}
+#navlinks.displayed {
+	top: 100px;
+	z-index: 1;
+	opacity: 1;
+}
+#navlinks.start {
+	display: none;
+}
+#navlinks.collapsed {
+	top: -12em;
+	opacity: 0;
+}
+#navlinks a { /* Style the links as blocks with a little padding and all uppercase white text */
+	display: block;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	color: white;
+	font-weight: 400;
+	text-transform: uppercase;
+ }
+#navlinks a:hover, #navlinks a:active, #navlinks a:focus, #navlinks a.thispage {
+	color: #DDD8CF;
+}
