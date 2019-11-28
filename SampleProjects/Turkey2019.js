@@ -282,6 +282,7 @@ p.nominalBounds = new cjs.Rectangle(-127.7,-56.6,288.4,108);
 
 	// timeline functions:
 	this.frame_0 = function() {
+		// on the web @ https://tinyurl.com/dpTurkey2019
 		this.Beak_btn.Action.text = "Beak";
 		this.Head_btn.Action.text = "Head";
 		this.Speak_btn.Action.text = "Speak";
@@ -354,34 +355,44 @@ p.nominalBounds = new cjs.Rectangle(-127.7,-56.6,288.4,108);
 	this.timeline.addTween(cjs.Tween.get(this.Turkey).wait(1));
 
 	// Navigation
+	this.text = new cjs.Text("Pearson Productions 2019", "normal 400 30px 'Open Sans'");
+	this.text.textAlign = "center";
+	this.text.lineHeight = 42;
+	this.text.parent = this;
+	this.text.setTransform(534.55,1620.2);
+	if(!lib.properties.webfonts['Open Sans']) {
+		lib.webFontTxtInst['Open Sans'] = lib.webFontTxtInst['Open Sans'] || [];
+		lib.webFontTxtInst['Open Sans'].push(this.text);
+	}
+
 	this.Beak_btn = new lib.Button();
 	this.Beak_btn.name = "Beak_btn";
 	this.Beak_btn.parent = this;
-	this.Beak_btn.setTransform(176.45,1444.3);
+	this.Beak_btn.setTransform(176.45,1404.3);
 	new cjs.ButtonHelper(this.Beak_btn, 0, 1, 2, false, new lib.Button(), 3);
 
 	this.Text_btn = new lib.Button();
 	this.Text_btn.name = "Text_btn";
 	this.Text_btn.parent = this;
-	this.Text_btn.setTransform(843.35,1592.35);
+	this.Text_btn.setTransform(843.35,1552.35);
 	new cjs.ButtonHelper(this.Text_btn, 0, 1, 2, false, new lib.Button(), 3);
 
 	this.Head_btn = new lib.Button();
 	this.Head_btn.name = "Head_btn";
 	this.Head_btn.parent = this;
-	this.Head_btn.setTransform(509.9,1592.35);
+	this.Head_btn.setTransform(509.9,1552.35);
 	new cjs.ButtonHelper(this.Head_btn, 0, 1, 2, false, new lib.Button(), 3);
 
 	this.Speak_btn = new lib.Button();
 	this.Speak_btn.name = "Speak_btn";
 	this.Speak_btn.parent = this;
-	this.Speak_btn.setTransform(176.45,1592.35);
+	this.Speak_btn.setTransform(176.45,1552.35);
 	new cjs.ButtonHelper(this.Speak_btn, 0, 1, 2, false, new lib.Button(), 3);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.Speak_btn},{t:this.Head_btn},{t:this.Text_btn},{t:this.Beak_btn}]}).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.Speak_btn},{t:this.Head_btn},{t:this.Text_btn},{t:this.Beak_btn},{t:this.text}]}).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(573.7,1270.6,430.4,373.10000000000014);
+p.nominalBounds = new cjs.Rectangle(573.7,1270.6,430.4,391.20000000000005);
 // library properties:
 lib.properties = {
 	id: '983D12C6936C4EBBA517B2E360FA4238',
@@ -392,9 +403,9 @@ lib.properties = {
 	opacity: 1.00,
 	webfonts: {},
 	manifest: [
-		{src:"images/Turkey2019_atlas_.png?1574968638642", id:"Turkey2019_atlas_"},
-		{src:"images/Turkey2019_atlas_2.png?1574968638643", id:"Turkey2019_atlas_2"},
-		{src:"sounds/TurkeyGobble.mp3?1574968638660", id:"TurkeyGobble"}
+		{src:"images/Turkey2019_atlas_.png?1574969985422", id:"Turkey2019_atlas_"},
+		{src:"images/Turkey2019_atlas_2.png?1574969985422", id:"Turkey2019_atlas_2"},
+		{src:"sounds/TurkeyGobble.mp3?1574969985438", id:"TurkeyGobble"}
 	],
 	preloads: []
 };
