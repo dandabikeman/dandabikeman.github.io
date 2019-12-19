@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"MPHfinal_APacheco_atlas_", frames: [[0,86,156,37],[0,0,77,84]]}
+		{name:"MPHFinal_APacheco_atlas_", frames: [[0,86,156,37],[0,0,77,84]]}
 ];
 
 
@@ -12,14 +12,14 @@ lib.ssMetadata = [
 
 
 (lib.Bitmap1 = function() {
-	this.spriteSheet = ss["MPHfinal_APacheco_atlas_"];
+	this.spriteSheet = ss["MPHFinal_APacheco_atlas_"];
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap2 = function() {
-	this.spriteSheet = ss["MPHfinal_APacheco_atlas_"];
+	this.spriteSheet = ss["MPHFinal_APacheco_atlas_"];
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
@@ -685,7 +685,7 @@ p.nominalBounds = new cjs.Rectangle(-29,-29,58,58);
 
 
 // stage content:
-(lib.MPHfinalAPacheco = function(mode,startPosition,loop) {
+(lib.MPHFinalAPacheco = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// timeline functions:
@@ -1086,7 +1086,7 @@ lib.properties = {
 	color: "#999999",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/MPHfinal_APacheco_atlas_.png?1527790571398", id:"MPHfinal_APacheco_atlas_"}
+		{src:"images/MPHFinal_APacheco_atlas_.png?1527908430294", id:"MPHFinal_APacheco_atlas_"}
 	],
 	preloads: []
 };

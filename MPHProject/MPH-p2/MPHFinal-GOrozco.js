@@ -116,7 +116,7 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 
 	// Layer_1
 	this.shape = new cjs.Shape();
-	this.shape.graphics.f().s("#000000").ss(1,1,1).p("ANKl/QAbAJA4A+QAZAbAeAlQAZAeAXAfQAoA0AkAzQAEgEAFgFQAbgjAWhJQACgJADgJQAThLAKgZQAZARAeAeQAAABABAAQALAMAMAOQAnArAtA/QAhAtAWAeQAAACABAAQAEAGAEAGQAAAAABABQAdAKAZAIQgDgQgDgRQgNg1gbg2QgEgHgEgHQgFgJgEgHQghg1glgcQgHgGgIgEAXtgQQAAgBAAAAQAAgYgDgXQgBgIgBgHQgFgYgIgXQgSgzgkgvQgKgOgLgLQgFgFgEgFQgNgNgNgKQgXgSgZgMIgBAAQgNgFgNgEQgEgBgDgBQgQgEgQgCQgHAAgQgCQgBAAAAAAQgUgDgggEQgPgDgRgCQgZgEgdgFQgbgEgdgFQgBAAgBAAQgOgCgNgCQg0gHgzgFQgqgEgpgCQgFAAgFAAQABgBABAAQAEAAAEABAQThHQACACAAABA29NFQABgEAEgDQAHgOAIgOQAQgaAPgWQATgdARgYQAUgeATgYQAhgpAcgaQAMgLAOgMQASgNAWgOQBJgxB7g8QBQglBXgmIACAAQBXgnBegmQBzgvBoglQBRgeBKgZQCegzD+g6QAEgBAEgBQBngXB1gYQAigHAugGQBUgMB8gIQA5gEBDgEQAEAAADAAQBigFBAgCQBLgBAcADQAKABAFACQgBAAgBAAQgJADgBAAQAHAAAHAAQAfAAAcAAQAEAAAFAAQAcAAAaAAQAxAAAjACQAAAAABAAQAMAAALAAQAbACAQAAQAHABAFABQAsAEApAHQAEAAAEABQAAABABAAQA2BIADADIAAgSQgBgTgCgUQAKAEALAEQAGADAHACQACABADABAHJmVQgNgqgOgmQgDgJgDgJQgWg4gZgyQgXgugagpQglg5grgxQgJgKgJgKQhDhHhIgpQgDgCgEgCQglgVgngNQgJgDgKgDQgMgEgOgCQgQgEgRgCQgcgEgbAAQgdAAgbAEQgRACgRAEQgNACgMAEQgKADgJADQgnANglAVQgEACgDACQg6Ahg0A1QgWAWgVAYQhUBigzCCQgzCEACCTQAAAlALBWQAAArgPAZQATgLAVgLQCqhdDFhDIABAAQBDgYBHgTQCKgnBzgTQBxgTBZAAQAKAAALAAQAQABATACQAXACAbAEQAKABALACQAGAAAGACQBiAPAMACQhYgIg3gIQgegEgUgEQg3gLBpAcQAIACAKACA29G5QAHADANAFQAZAIAqAQQAUAIAXAJQA5AVAaAKQAWAIACAAQAFAAAGgFQARgSAPhHQAShiACgHQAGg2AHghQAIgtARgMQAGgDAGAAQA8AABnBGQA0AkArAjQAMAAAyi9QAyi8AQAAQA3AABqBgQA2AxA1A5QADgEBfjVQBGieAjgUQAFgDAEAAQAVAAApAVQA5AdBfBEQBRA7BKA6QAAABABAAQAOAABii5QBii6AKAAQASAABFBKQAfAgApAvQCECaACAAQATAABYiaQAKgRAJgPQBAhuAMgKQgbgBgaAAQgLAAgMABQg3AAhfAFQgVACgSABAwqL9QAFgGAFgFQAug2A+g1QB4hpC8hmQDUh1D4hcQBhgjCcgeQATgEAYgEQBPgPB/gTQA2gIAwgGQBMgJA7gDQA+gEB5AAQAHAAAHAAQBUAABVAGQAyADAyAEQACAAABABQAtADAoAFQAcAEAaAEQAmAGAeAGA29NFQAJATALARQAdArAmAZQALAIALAGQAcAPBMAKQAXACAbADQAMABAMABQBjAIBuAAQBfAABLgKQALgBALgDQA4gICQghQAygMAcgZQAegaAIgtQAAgBABgBQAGgfAOgtQABgGACgHQASg9AJghQABgEABgDQAnijDlh0QCEhDCAgXQBDgMBBAAQBbAABVAlQBSAjBMBGQAqAnAwA5QAjAsAFAAQAOAAAegKQA5gUBwg6QAQgIASgKQAhgQAkgUQAogWAtgZQATgLAVgLQAGgEAIgFQAegTA2gfQAAgBABAAQAHgFAJgEQBKguAsgiQAPgLAOgMQAEgDAFgEQA0gwAXgvQAIgQAFgPQAFgVAAgUAqrhoQgLARgTAKQgNAGgMAHQgEABgCACQjJBjhaAvQhAAig2AeQg6AigtAeQgSAMgPAMQg1AngoArQgnApgcAsQgLASgJATA3FG4QAEABAEAAQgvBeAABrQAAADAAACQABA3ANA0QAJAlASAjQABACABACQABAEADADArog9QAcgYAhgT");
+	this.shape.graphics.f().s("#000000").ss(1,1,1).p("AXtgQQAAgBAAAAQAAgYgDgXQgBgIgBgHQgFgYgIgXQgSgzgkgvQgKgOgLgLQgFgFgEgFQgNgNgNgKQgXgSgZgMIgBAAQgNgFgNgEQgEgBgDgBQgQgEgQgCQgHAAgQgCQgBAAAAAAQgUgDgggEQgPgDgRgCQgZgEgdgFQgbgEgdgFQgBAAgBAAQgOgCgNgCQg0gHgzgFQgqgEgpgCQAbAJA4A+QAZAbAeAlQAZAeAXAfQAoA0AkAzQAEgEAFgFQAbgjAWhJQACgJADgJQAThLAKgZQAZARAeAeQAAABABAAQALAMAMAOQAnArAtA/QAhAtAWAeQAAACABAAQAEAGAEAGQgEgBgEAAQgpgHgsgEQgFgBgHgBQgQAAgbgCQgLAAgMAAQgBAAAAAAQgjgCgxAAQgaAAgcAAQgFAAgEAAQgcAAgfAAAQThHQgBAAgBAAQgJADgBAAQAHAAAHAAAQThHQACACAAABA29NFQABgEAEgDQAHgOAIgOQAQgaAPgWQATgdARgYQAUgeATgYQAhgpAcgaQAMgLAOgMQASgNAWgOQBJgxB7g8QBQglBXgmIACAAQBXgnBegmQBzgvBoglQBRgeBKgZQCegzD+g6QAEgBAEgBQBngXB1gYQAigHAugGQBUgMB8gIQA5gEBDgEQAEAAADAAQBigFBAgCQBLgBAcADQAKABAFACAXtgQQgDgBgCgBQgHgCgGgDQgLgEgKgEQgDgQgDgRQgNg1gbg2QgEgHgEgHQgFgJgEgHQghg1glgcQgHgGgIgEAHJmVQgNgqgOgmQgDgJgDgJQgWg4gZgyQgXgugagpQglg5grgxQgJgKgJgKQhDhHhIgpQgDgCgEgCQglgVgngNQgJgDgKgDQgMgEgOgCQgQgEgRgCQgcgEgbAAQgdAAgbAEQgRACgRAEQgNACgMAEQgKADgJADQgnANglAVQgEACgDACQg6Ahg0A1QgWAWgVAYQhUBigzCCQgzCEACCTQAAAlALBWQAAArgPAZQATgLAVgLQCqhdDFhDIABAAQBDgYBHgTQCKgnBzgTQBxgTBZAAQAKAAALAAQAQABATACQAXACAbAEQAKABALACQAGAAAGACQBiAPAMACQhYgIg3gIQgegEgUgEQg3gLBpAcQAIACAKACA29G5QAHADANAFQAZAIAqAQQAUAIAXAJQA5AVAaAKQAWAIACAAQAFAAAGgFQARgSAPhHQAShiACgHQAGg2AHghQAIgtARgMQAGgDAGAAQA8AABnBGQA0AkArAjQAMAAAyi9QAyi8AQAAQA3AABqBgQA2AxA1A5QADgEBfjVQBGieAjgUQAFgDAEAAQAVAAApAVQA5AdBfBEQBRA7BKA6QAAABABAAQAOAABii5QBii6AKAAQASAABFBKQAfAgApAvQCECaACAAQATAABYiaQAKgRAJgPQBAhuAMgKQgbgBgaAAQgLAAgMABQg3AAhfAFQgVACgSABANKl/QgFAAgFAAQABgBABAAQAEAAAEABgAwqL9QAFgGAFgFQAug2A+g1QB4hpC8hmQDUh1D4hcQBhgjCcgeQATgEAYgEQBPgPB/gTQA2gIAwgGQBMgJA7gDQA+gEB5AAQAHAAAHAAQBUAABVAGQAyADAyAEQACAAABABQAtADAoAFQAcAEAaAEQAmAGAeAGA29NFQAJATALARQAdArAmAZQALAIALAGQAcAPBMAKQAXACAbADQAMABAMABQBjAIBuAAQBfAABLgKQALgBALgDQA4gICQghQAygMAcgZQAegaAIgtQAAgBABgBQAGgfAOgtQABgGACgHQASg9AJghQABgEABgDQAnijDlh0QCEhDCAgXQBDgMBBAAQBbAABVAlQBSAjBMBGQAqAnAwA5QAjAsAFAAQAOAAAegKQA5gUBwg6QAQgIASgKQAhgQAkgUQAogWAtgZQATgLAVgLQAGgEAIgFQAegTA2gfQAAgBABAAQAHgFAJgEQBKguAsgiQAPgLAOgMQAEgDAFgEQA0gwAXgvQAIgQAFgPQAFgVAAgUAXJAaIAAgSAqrhoQgLARgTAKQgNAGgMAHQgEABgCACQjJBjhaAvQhAAig2AeQg6AigtAeQgSAMgPAMQg1AngoArQgnApgcAsQgLASgJATA3FG4QAEABAEAAQgvBeAABrQAAADAAACQABA3ANA0QAJAlASAjQABACABACQABAEADADArog9QAcgYAhgT");
 	this.shape.setTransform(151.7,99.5);
 
 	this.shape_1 = new cjs.Shape();
@@ -711,75 +711,104 @@ p.nominalBounds = new cjs.Rectangle(-39,-15,78,30);
 		this.face1_btn.addEventListener("click", fl_Clickface1.bind(this));
 		
 		function fl_Clickface1() {
-			this.sunglasses_mc.x = 186;
-			this.sunglasses_mc.y = 283;
-			this.teeth_mc.x = 255;
-			this.teeth_mc.y = 336;
-			this.hat_mc.x = 113;
-			this.hat_mc.y = 160;
-			this.leftleg_mc.x = 337;
-			this.leftleg_mc.y = 434;
-			this.rightleg_mc.x = 250;
-			this.rightleg_mc.y = 407;
-			this.leftarm_mc.x = 329;
-			this.leftarm_mc.y = 337;
-			this.rightarm_mc.x = 144;
-			this.rightarm_mc.y = 377;
+			this.sunglasses_mc.x = 251;
+			this.sunglasses_mc.y = 311;
+			this.teeth_mc.x = 278;
+			this.teeth_mc.y = 357;
+			this.hat_mc.x = 221;
+			this.hat_mc.y = 221;
+			this.leftleg_mc.x = 361;
+			this.leftleg_mc.y = 460;
+			this.rightleg_mc.x = 267;
+			this.rightleg_mc.y = 439;
+			this.leftarm_mc.x = 351;
+			this.leftarm_mc.y = 366;
+			this.rightarm_mc.x = 195;
+			this.rightarm_mc.y = 385;
 		}
 		
 		this.face2_btn.addEventListener("click", fl_Clickface2.bind(this));
 		
 		function fl_Clickface2() {
-			this.sombero_mc.x = 75;
-			this.sombero_mc.y = 100;
-			this.smirk_mc.x = 269;
-			this.smirk_mc.y = 337;
-			this.angryeyes_mc.x = 196;
-			this.angryeyes_mc.y = 272;
-			this.eyebrows_mc.x = 229;
-			this.eyebrows_mc.y = 327;
-			this.rightarm_mc.x = 144;
-			this.rightarm_mc.y = 377;
-			this.leftarm_mc.x = 329;
-			this.leftarm_mc.y = 337;
+			this.sombero_mc.x = 226;
+			this.sombero_mc.y = 199;
+			this.smirk_mc.x = 294;
+			this.smirk_mc.y = 353;
+			this.angryeyes_mc.x = 249;
+			this.angryeyes_mc.y = 304;
+			this.eyebrows_mc.x = 269;
+			this.eyebrows_mc.y = 340;
+			this.rightarm_mc.x = 195;
+			this.rightarm_mc.y = 385;
+			this.leftarm_mc.x = 351;
+			this.leftarm_mc.y = 366;
 		}
 		
 		this.reset.addEventListener("click", fl_ClickFunction.bind(this));
 		
 		function fl_ClickFunction() {
-			this.sombero_mc.x = 587;
-			this.sombero_mc.y = 126;
-			this.smirk_mc.x = 623;
-			this.smirk_mc.y = 221;
-			this.angryeyes_mc.x = 633;
-			this.angryeyes_mc.y = 431;
-			this.eyebrows_mc.x = 658;
-			this.eyebrows_mc.y = 345;
-			this.rightarm_mc.x = 426;
-			this.rightarm_mc.y = 394;
-			this.leftarm_mc.x = 530;
-			this.leftarm_mc.y = 383;
-			this.rightarm_mc.x = 426;
-			this.rightarm_mc.y = 394;
-			this.leftarm_mc.x = 530;
-			this.leftarm_mc.y = 383;
-			this.rightleg_mc.x = 575;
-			this.rightleg_mc.y = 382;
-			this.leftleg_mc.x = 603;
-			this.leftleg_mc.y = 389;
-			this.hat_mc.x = 414;
-			this.hat_mc.y = 231;
-			this.teeth_mc.x = 658;
-			this.teeth_mc.y = 267;
-			this.sunglasses_mc.x = 609;
-			this.sunglasses_mc.y = 501;
+			this.sombero_mc.x = 586;
+			this.sombero_mc.y = 125;
+			this.smirk_mc.x = 648;
+			this.smirk_mc.y = 237;
+			this.angryeyes_mc.x = 686;
+			this.angryeyes_mc.y = 465;
+			this.eyebrows_mc.x = 689;
+			this.eyebrows_mc.y = 357;
+			this.rightarm_mc.x = 478;
+			this.rightarm_mc.y = 402;
+			this.leftarm_mc.x = 552;
+			this.leftarm_mc.y = 412;
+			this.rightleg_mc.x = 592;
+			this.rightleg_mc.y = 414;
+			this.leftleg_mc.x = 628;
+			this.leftleg_mc.y = 412;
+			this.hat_mc.x = 523;
+			this.hat_mc.y = 292;
+			this.teeth_mc.x = 681;
+			this.teeth_mc.y = 288;
+			this.sunglasses_mc.x = 674;
+			this.sunglasses_mc.y = 529;
+			this.smilewithteeth_mc.x = 713;
+			this.smilewithteeth_mc.y = 230;
+		    this.pinksunglasses_mc.x = 551;
+			this.pinksunglasses_mc.y = 536;
+			this.crown_mc.x = 521;
+			this.crown_mc.y = 481;
+			this.blueeyes_mc.x = 706;
+			this.blueeyes_mc.y = 397;
+			this.nose1_mc.x = 709;
+			this.nose1_mc.y = 328;
+			this.nose2_mc.x = 676;
+			this.nose2_mc.y = 349;
+		
+			
+			
 		
 		}
 		
 		this.sunglasses_mc.addEventListener("pressmove", dragMe.bind(this));
 		this.teeth_mc.addEventListener("pressmove", dragMe.bind(this));
 		this.hat_mc.addEventListener("pressmove", dragMe.bind(this));
+		this.sombero_mc.addEventListener("pressmove", dragMe.bind(this));
+		this.smirk_mc.addEventListener("pressmove", dragMe.bind(this));
+		this.angryeyes_mc.addEventListener("pressmove", dragMe.bind(this));
+		this.eyebrows_mc.addEventListener("pressmove", dragMe.bind(this));
+		this.rightarm_mc.addEventListener("pressmove", dragMe.bind(this));
+		this.leftarm_mc.addEventListener("pressmove", dragMe.bind(this));
+		this.rightleg_mc.addEventListener("pressmove", dragMe.bind(this));
 		this.leftleg_mc.addEventListener("pressmove", dragMe.bind(this));
+		this.hat_mc.addEventListener("pressmove", dragMe.bind(this));
+		this.smilewithteeth_mc.addEventListener("pressmove", dragMe.bind(this));
+		this.crown_mc.addEventListener("pressmove", dragMe.bind(this));
+		this.blueeyes_mc.addEventListener("pressmove", dragMe.bind(this));
+		this.nose1_mc.addEventListener("pressmove", dragMe.bind(this));
+		this.nose2_mc.addEventListener("pressmove", dragMe.bind(this));
+		this.pinksunglasses_mc.addEventListener("pressmove", dragMe.bind(this));
+		
+		
+		
+		
 		
 		
 		function dragMe(evt) {
@@ -940,94 +969,99 @@ p.nominalBounds = new cjs.Rectangle(-39,-15,78,30);
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_30},{t:this.shape_29},{t:this.shape_28},{t:this.shape_27},{t:this.shape_26},{t:this.shape_25},{t:this.shape_24},{t:this.shape_23},{t:this.shape_22},{t:this.shape_21},{t:this.shape_20},{t:this.shape_19},{t:this.shape_18},{t:this.shape_17},{t:this.shape_16},{t:this.shape_15},{t:this.shape_14},{t:this.shape_13},{t:this.shape_12},{t:this.shape_11},{t:this.shape_10},{t:this.shape_9},{t:this.shape_8},{t:this.shape_7},{t:this.shape_6},{t:this.shape_5},{t:this.shape_4},{t:this.shape_3},{t:this.shape_2},{t:this.shape_1},{t:this.shape}]}).wait(1));
 
 	// Body Parts
-	this.instance = new lib.crown();
-	this.instance.parent = this;
-	this.instance.setTransform(521.3,481.3,1,1,0,0,0,64.3,32);
+	this.crown_mc = new lib.crown();
+	this.crown_mc.name = "crown_mc";
+	this.crown_mc.parent = this;
+	this.crown_mc.setTransform(521.3,481.3,1,1,0,0,0,64.3,32);
 
-	this.instance_1 = new lib.nose2();
-	this.instance_1.parent = this;
-	this.instance_1.setTransform(672.8,349.7,1,1,0,0,0,14,3.9);
+	this.nose2_mc = new lib.nose2();
+	this.nose2_mc.name = "nose2_mc";
+	this.nose2_mc.parent = this;
+	this.nose2_mc.setTransform(672.8,349.7,1,1,0,0,0,14,3.9);
 
 	this.leftleg_mc = new lib.leftleg();
 	this.leftleg_mc.name = "leftleg_mc";
 	this.leftleg_mc.parent = this;
-	this.leftleg_mc.setTransform(628.9,412.5,1,1,-15,0,0,17.4,31.6);
+	this.leftleg_mc.setTransform(628.1,412,1,1,-15,0,0,17.4,31.6);
 
 	this.rightleg_mc = new lib.rightleg();
 	this.rightleg_mc.name = "rightleg_mc";
 	this.rightleg_mc.parent = this;
-	this.rightleg_mc.setTransform(592.8,414.9,1,1,0,0,0,17.5,32.8);
+	this.rightleg_mc.setTransform(592,414,1,1,0,0,0,17.5,32.8);
 
-	this.instance_2 = new lib.pinksunglasses();
-	this.instance_2.parent = this;
-	this.instance_2.setTransform(551.4,536.2,1,1,0,0,0,49.5,32);
+	this.pinksunglasses_mc = new lib.pinksunglasses();
+	this.pinksunglasses_mc.name = "pinksunglasses_mc";
+	this.pinksunglasses_mc.parent = this;
+	this.pinksunglasses_mc.setTransform(551.4,536.2,1,1,0,0,0,49.5,32);
 
-	this.instance_3 = new lib.nose1();
-	this.instance_3.parent = this;
-	this.instance_3.setTransform(709.2,328.9,1,1,0,0,0,27.8,7.5);
+	this.nose1_mc = new lib.nose1();
+	this.nose1_mc.name = "nose1_mc";
+	this.nose1_mc.parent = this;
+	this.nose1_mc.setTransform(709.2,328.9,1,1,0,0,0,27.8,7.5);
 
 	this.hat_mc = new lib.hat();
 	this.hat_mc.name = "hat_mc";
 	this.hat_mc.parent = this;
-	this.hat_mc.setTransform(523.4,292.4,1,1,0,0,0,108.5,61.1);
+	this.hat_mc.setTransform(523.1,292,1,1,0,0,0,108.5,61.1);
 
 	this.teeth_mc = new lib.teeth();
 	this.teeth_mc.name = "teeth_mc";
 	this.teeth_mc.parent = this;
-	this.teeth_mc.setTransform(681.4,288.1,1,1,0,0,0,23.4,21.1);
+	this.teeth_mc.setTransform(681,288.1,1,1,0,0,0,23.4,21.1);
 
 	this.smirk_mc = new lib.smirk();
 	this.smirk_mc.name = "smirk_mc";
 	this.smirk_mc.parent = this;
-	this.smirk_mc.setTransform(648.3,237.9,1,1,0,0,0,25.3,16.9);
+	this.smirk_mc.setTransform(648,237,1,1,0,0,0,25.3,16.9);
 
 	this.sombero_mc = new lib.sombero();
 	this.sombero_mc.name = "sombero_mc";
 	this.sombero_mc.parent = this;
-	this.sombero_mc.setTransform(587,126.1,1,1,0,0,0,151.7,99.5);
+	this.sombero_mc.setTransform(586,125.1,1,1,0,0,0,151.7,99.5);
 
 	this.leftarm_mc = new lib.leftarm();
 	this.leftarm_mc.name = "leftarm_mc";
 	this.leftarm_mc.parent = this;
-	this.leftarm_mc.setTransform(552.5,412.5,1,1,-15,0,0,14.1,34.3);
+	this.leftarm_mc.setTransform(552,412.1,1,1,-15,0,0,14.1,34.3);
 
 	this.rightarm_mc = new lib.rightarm();
 	this.rightarm_mc.name = "rightarm_mc";
 	this.rightarm_mc.parent = this;
-	this.rightarm_mc.setTransform(478.4,402.4,1,1,-30,0,0,40.8,32.9);
+	this.rightarm_mc.setTransform(478.1,402.1,1,1,-30,0,0,40.8,32.9);
 
 	this.eyebrows_mc = new lib.eyebrows();
 	this.eyebrows_mc.name = "eyebrows_mc";
 	this.eyebrows_mc.parent = this;
-	this.eyebrows_mc.setTransform(698.7,358,1,1,0,0,0,40.7,13);
+	this.eyebrows_mc.setTransform(695.9,358.7,1,1,0,0,0,40.7,13);
 
-	this.blueeyes = new lib.blueeyes();
-	this.blueeyes.name = "blueeyes";
-	this.blueeyes.parent = this;
-	this.blueeyes.setTransform(706.8,397.6,1,1,0,0,0,32.8,26.6);
+	this.blueeyes_mc = new lib.blueeyes();
+	this.blueeyes_mc.name = "blueeyes_mc";
+	this.blueeyes_mc.parent = this;
+	this.blueeyes_mc.setTransform(706.8,397.6,1,1,0,0,0,32.8,26.6);
 
 	this.angryeyes_mc = new lib.angryeyes();
 	this.angryeyes_mc.name = "angryeyes_mc";
 	this.angryeyes_mc.parent = this;
-	this.angryeyes_mc.setTransform(686.1,463.1,1,1,0,0,0,53.1,32.1);
+	this.angryeyes_mc.setTransform(686.8,466,1,1,0,0,0,53.1,32.1);
 
-	this.instance_4 = new lib.smilewithteeth();
-	this.instance_4.parent = this;
-	this.instance_4.setTransform(713.3,230.7,1,1,0,0,0,26.8,23.2);
+	this.smilewithteeth_mc = new lib.smilewithteeth();
+	this.smilewithteeth_mc.name = "smilewithteeth_mc";
+	this.smilewithteeth_mc.parent = this;
+	this.smilewithteeth_mc.setTransform(713.3,230.7,1,1,0,0,0,26.8,23.2);
 
 	this.sunglasses_mc = new lib.sunglasses();
 	this.sunglasses_mc.name = "sunglasses_mc";
 	this.sunglasses_mc.parent = this;
-	this.sunglasses_mc.setTransform(674.3,529.1,1,1,0,0,0,65.3,28.1);
+	this.sunglasses_mc.setTransform(679,529.1,1,1,0,0,0,65.3,28.1);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.sunglasses_mc},{t:this.instance_4},{t:this.angryeyes_mc},{t:this.blueeyes},{t:this.eyebrows_mc},{t:this.rightarm_mc},{t:this.leftarm_mc},{t:this.sombero_mc},{t:this.smirk_mc},{t:this.teeth_mc},{t:this.hat_mc},{t:this.instance_3},{t:this.instance_2},{t:this.rightleg_mc},{t:this.leftleg_mc},{t:this.instance_1},{t:this.instance}]}).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.sunglasses_mc},{t:this.smilewithteeth_mc},{t:this.angryeyes_mc},{t:this.blueeyes_mc},{t:this.eyebrows_mc},{t:this.rightarm_mc},{t:this.leftarm_mc},{t:this.sombero_mc},{t:this.smirk_mc},{t:this.teeth_mc},{t:this.hat_mc},{t:this.nose1_mc},{t:this.pinksunglasses_mc},{t:this.rightleg_mc},{t:this.leftleg_mc},{t:this.nose2_mc},{t:this.crown_mc}]}).wait(1));
 
 	// Character
-	this.instance_5 = new lib.chile();
-	this.instance_5.parent = this;
-	this.instance_5.setTransform(283.5,303.8,1,1,0,0,0,131.3,132);
+	this.instance = new lib.chile();
+	this.instance.parent = this;
+	this.instance.setTransform(283.5,303.8,1,1,0,0,0,131.3,132);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_5).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	// Frame
 	this.shape_31 = new cjs.Shape();
