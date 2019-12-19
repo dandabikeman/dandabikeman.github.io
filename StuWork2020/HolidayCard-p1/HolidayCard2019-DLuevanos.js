@@ -50,7 +50,7 @@ lib.ssMetadata = [
 		{name:"HolidayCard2019_DLuevanos_atlas_45", frames: [[0,0,1322,1157]]},
 		{name:"HolidayCard2019_DLuevanos_atlas_46", frames: [[0,0,1322,1157]]},
 		{name:"HolidayCard2019_DLuevanos_atlas_47", frames: [[0,0,1322,1157]]},
-		{name:"HolidayCard2019_DLuevanos_atlas_48", frames: [[1935,77,9,5],[1764,0,215,75],[1296,0,466,537],[1296,539,506,206],[1324,747,506,206],[1324,955,506,206],[1764,77,169,85],[0,925,1322,888],[0,0,1294,923],[1764,164,255,21],[1946,77,9,5]]}
+		{name:"HolidayCard2019_DLuevanos_atlas_48", frames: [[1946,77,9,5],[1764,0,215,75],[1296,0,466,537],[1324,955,506,206],[1296,539,506,206],[1324,747,506,206],[1764,77,169,85],[0,925,1322,888],[0,0,1294,923],[1764,164,255,21],[1935,77,9,5]]}
 ];
 
 
@@ -65,7 +65,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,2072,221);
 
 
 (lib.CachedTexturedBitmap_10 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_11"]);
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_21"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -121,280 +121,280 @@ p.nominalBounds = new cjs.Rectangle(0,0,2072,221);
 
 
 (lib.CachedTexturedBitmap_11 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_23"]);
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_45"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_12 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_2"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_13 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_8"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_14 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_16"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_15 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_15"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_16 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_3"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_17 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_12"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_18 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_22"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_19 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_27"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_2 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_44"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_20 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_4"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_21 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_17"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_22 = function() {
 	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_24"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_23 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_5"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_24 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_18"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_25 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_26"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_26 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_6"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_27 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_25"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_28 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_10"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_29 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_7"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_3 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_46"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_30 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_28"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_31 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_13"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_32 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_14"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_33 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_19"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_34 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_9"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_35 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_20"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_36 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_21"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_37 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_43"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_38 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_42"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_39 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_38"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_4 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_47"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_40 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_41"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_41 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_35"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_42 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_39"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_43 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_34"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_44 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_37"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_45 = function() {
+(lib.CachedTexturedBitmap_13 = function() {
 	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_33"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_46 = function() {
+(lib.CachedTexturedBitmap_14 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_35"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_15 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_25"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_16 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_46"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_17 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_31"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_18 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_18"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_19 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_32"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_2 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_6"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_20 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_43"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_21 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_41"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_22 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_37"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_23 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_29"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_24 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_19"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_25 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_20"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_26 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_22"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_27 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_23"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_28 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_26"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_29 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_27"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_3 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_4"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_30 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_40"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_31 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_38"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_32 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_28"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_33 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_30"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_34 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_34"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_35 = function() {
 	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_36"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
+(lib.CachedTexturedBitmap_36 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_42"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_37 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_39"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_38 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_16"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_39 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_14"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_4 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_5"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_40 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_8"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_41 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_10"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_42 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_9"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_43 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_13"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_44 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_11"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_45 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_15"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_46 = function() {
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_12"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.CachedTexturedBitmap_47 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_40"]);
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_7"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -415,7 +415,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,2072,221);
 
 
 (lib.CachedTexturedBitmap_5 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_45"]);
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -436,28 +436,28 @@ p.nominalBounds = new cjs.Rectangle(0,0,2072,221);
 
 
 (lib.CachedTexturedBitmap_6 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_29"]);
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_3"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_7 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_30"]);
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_47"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_8 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_31"]);
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_44"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_9 = function() {
-	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_32"]);
+	this.initialize(ss["HolidayCard2019_DLuevanos_atlas_17"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -835,56 +835,56 @@ lib.properties = {
 	color: "#006633",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedTexturedBitmap_1.png?1576614161668", id:"CachedTexturedBitmap_1"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_.png?1576614161634", id:"HolidayCard2019_DLuevanos_atlas_"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_2.png?1576614161634", id:"HolidayCard2019_DLuevanos_atlas_2"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_3.png?1576614161634", id:"HolidayCard2019_DLuevanos_atlas_3"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_4.png?1576614161634", id:"HolidayCard2019_DLuevanos_atlas_4"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_5.png?1576614161634", id:"HolidayCard2019_DLuevanos_atlas_5"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_6.png?1576614161635", id:"HolidayCard2019_DLuevanos_atlas_6"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_7.png?1576614161635", id:"HolidayCard2019_DLuevanos_atlas_7"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_8.png?1576614161635", id:"HolidayCard2019_DLuevanos_atlas_8"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_9.png?1576614161635", id:"HolidayCard2019_DLuevanos_atlas_9"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_10.png?1576614161635", id:"HolidayCard2019_DLuevanos_atlas_10"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_11.png?1576614161635", id:"HolidayCard2019_DLuevanos_atlas_11"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_12.png?1576614161635", id:"HolidayCard2019_DLuevanos_atlas_12"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_13.png?1576614161635", id:"HolidayCard2019_DLuevanos_atlas_13"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_14.png?1576614161635", id:"HolidayCard2019_DLuevanos_atlas_14"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_15.png?1576614161635", id:"HolidayCard2019_DLuevanos_atlas_15"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_16.png?1576614161635", id:"HolidayCard2019_DLuevanos_atlas_16"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_17.png?1576614161636", id:"HolidayCard2019_DLuevanos_atlas_17"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_18.png?1576614161636", id:"HolidayCard2019_DLuevanos_atlas_18"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_19.png?1576614161638", id:"HolidayCard2019_DLuevanos_atlas_19"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_20.png?1576614161638", id:"HolidayCard2019_DLuevanos_atlas_20"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_21.png?1576614161639", id:"HolidayCard2019_DLuevanos_atlas_21"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_22.png?1576614161639", id:"HolidayCard2019_DLuevanos_atlas_22"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_23.png?1576614161639", id:"HolidayCard2019_DLuevanos_atlas_23"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_24.png?1576614161639", id:"HolidayCard2019_DLuevanos_atlas_24"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_25.png?1576614161639", id:"HolidayCard2019_DLuevanos_atlas_25"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_26.png?1576614161639", id:"HolidayCard2019_DLuevanos_atlas_26"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_27.png?1576614161639", id:"HolidayCard2019_DLuevanos_atlas_27"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_28.png?1576614161639", id:"HolidayCard2019_DLuevanos_atlas_28"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_29.png?1576614161639", id:"HolidayCard2019_DLuevanos_atlas_29"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_30.png?1576614161639", id:"HolidayCard2019_DLuevanos_atlas_30"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_31.png?1576614161639", id:"HolidayCard2019_DLuevanos_atlas_31"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_32.png?1576614161639", id:"HolidayCard2019_DLuevanos_atlas_32"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_33.png?1576614161640", id:"HolidayCard2019_DLuevanos_atlas_33"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_34.png?1576614161640", id:"HolidayCard2019_DLuevanos_atlas_34"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_35.png?1576614161640", id:"HolidayCard2019_DLuevanos_atlas_35"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_36.png?1576614161640", id:"HolidayCard2019_DLuevanos_atlas_36"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_37.png?1576614161640", id:"HolidayCard2019_DLuevanos_atlas_37"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_38.png?1576614161640", id:"HolidayCard2019_DLuevanos_atlas_38"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_39.png?1576614161640", id:"HolidayCard2019_DLuevanos_atlas_39"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_40.png?1576614161640", id:"HolidayCard2019_DLuevanos_atlas_40"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_41.png?1576614161640", id:"HolidayCard2019_DLuevanos_atlas_41"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_42.png?1576614161640", id:"HolidayCard2019_DLuevanos_atlas_42"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_43.png?1576614161640", id:"HolidayCard2019_DLuevanos_atlas_43"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_44.png?1576614161640", id:"HolidayCard2019_DLuevanos_atlas_44"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_45.png?1576614161641", id:"HolidayCard2019_DLuevanos_atlas_45"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_46.png?1576614161641", id:"HolidayCard2019_DLuevanos_atlas_46"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_47.png?1576614161641", id:"HolidayCard2019_DLuevanos_atlas_47"},
-		{src:"images/HolidayCard2019_DLuevanos_atlas_48.png?1576614161641", id:"HolidayCard2019_DLuevanos_atlas_48"},
-		{src:"sounds/MerryChristmaswav.mp3?1576614161668", id:"MerryChristmaswav"}
+		{src:"images/CachedTexturedBitmap_1.png?1576771347146", id:"CachedTexturedBitmap_1"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_.png?1576771347107", id:"HolidayCard2019_DLuevanos_atlas_"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_2.png?1576771347107", id:"HolidayCard2019_DLuevanos_atlas_2"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_3.png?1576771347107", id:"HolidayCard2019_DLuevanos_atlas_3"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_4.png?1576771347107", id:"HolidayCard2019_DLuevanos_atlas_4"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_5.png?1576771347108", id:"HolidayCard2019_DLuevanos_atlas_5"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_6.png?1576771347108", id:"HolidayCard2019_DLuevanos_atlas_6"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_7.png?1576771347108", id:"HolidayCard2019_DLuevanos_atlas_7"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_8.png?1576771347108", id:"HolidayCard2019_DLuevanos_atlas_8"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_9.png?1576771347108", id:"HolidayCard2019_DLuevanos_atlas_9"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_10.png?1576771347108", id:"HolidayCard2019_DLuevanos_atlas_10"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_11.png?1576771347108", id:"HolidayCard2019_DLuevanos_atlas_11"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_12.png?1576771347108", id:"HolidayCard2019_DLuevanos_atlas_12"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_13.png?1576771347108", id:"HolidayCard2019_DLuevanos_atlas_13"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_14.png?1576771347108", id:"HolidayCard2019_DLuevanos_atlas_14"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_15.png?1576771347109", id:"HolidayCard2019_DLuevanos_atlas_15"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_16.png?1576771347109", id:"HolidayCard2019_DLuevanos_atlas_16"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_17.png?1576771347109", id:"HolidayCard2019_DLuevanos_atlas_17"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_18.png?1576771347109", id:"HolidayCard2019_DLuevanos_atlas_18"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_19.png?1576771347112", id:"HolidayCard2019_DLuevanos_atlas_19"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_20.png?1576771347112", id:"HolidayCard2019_DLuevanos_atlas_20"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_21.png?1576771347113", id:"HolidayCard2019_DLuevanos_atlas_21"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_22.png?1576771347113", id:"HolidayCard2019_DLuevanos_atlas_22"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_23.png?1576771347113", id:"HolidayCard2019_DLuevanos_atlas_23"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_24.png?1576771347113", id:"HolidayCard2019_DLuevanos_atlas_24"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_25.png?1576771347113", id:"HolidayCard2019_DLuevanos_atlas_25"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_26.png?1576771347113", id:"HolidayCard2019_DLuevanos_atlas_26"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_27.png?1576771347113", id:"HolidayCard2019_DLuevanos_atlas_27"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_28.png?1576771347113", id:"HolidayCard2019_DLuevanos_atlas_28"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_29.png?1576771347113", id:"HolidayCard2019_DLuevanos_atlas_29"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_30.png?1576771347113", id:"HolidayCard2019_DLuevanos_atlas_30"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_31.png?1576771347113", id:"HolidayCard2019_DLuevanos_atlas_31"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_32.png?1576771347114", id:"HolidayCard2019_DLuevanos_atlas_32"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_33.png?1576771347114", id:"HolidayCard2019_DLuevanos_atlas_33"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_34.png?1576771347114", id:"HolidayCard2019_DLuevanos_atlas_34"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_35.png?1576771347114", id:"HolidayCard2019_DLuevanos_atlas_35"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_36.png?1576771347114", id:"HolidayCard2019_DLuevanos_atlas_36"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_37.png?1576771347114", id:"HolidayCard2019_DLuevanos_atlas_37"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_38.png?1576771347114", id:"HolidayCard2019_DLuevanos_atlas_38"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_39.png?1576771347114", id:"HolidayCard2019_DLuevanos_atlas_39"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_40.png?1576771347114", id:"HolidayCard2019_DLuevanos_atlas_40"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_41.png?1576771347114", id:"HolidayCard2019_DLuevanos_atlas_41"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_42.png?1576771347114", id:"HolidayCard2019_DLuevanos_atlas_42"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_43.png?1576771347115", id:"HolidayCard2019_DLuevanos_atlas_43"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_44.png?1576771347115", id:"HolidayCard2019_DLuevanos_atlas_44"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_45.png?1576771347115", id:"HolidayCard2019_DLuevanos_atlas_45"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_46.png?1576771347115", id:"HolidayCard2019_DLuevanos_atlas_46"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_47.png?1576771347115", id:"HolidayCard2019_DLuevanos_atlas_47"},
+		{src:"images/HolidayCard2019_DLuevanos_atlas_48.png?1576771347115", id:"HolidayCard2019_DLuevanos_atlas_48"},
+		{src:"sounds/MerryChristmaswav.mp3?1576771347146", id:"MerryChristmaswav"}
 	],
 	preloads: []
 };

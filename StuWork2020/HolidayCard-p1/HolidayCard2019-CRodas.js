@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"HolidayCard2019_CRodas_atlas_", frames: [[1870,1301,132,164],[1524,1301,344,165],[1524,1468,400,111],[0,0,1978,1299],[0,1301,506,206],[508,1301,506,206],[1016,1301,506,206]]}
+		{name:"HolidayCard2019_CRodas_atlas_", frames: [[1870,1301,132,164],[1524,1301,344,165],[1524,1468,400,111],[0,0,1978,1299],[508,1301,506,206],[1016,1301,506,206],[0,1301,506,206]]}
 ];
 
 
@@ -11,49 +11,49 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedTexturedBitmap_599 = function() {
+(lib.CachedTexturedBitmap_699 = function() {
 	this.initialize(ss["HolidayCard2019_CRodas_atlas_"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_600 = function() {
+(lib.CachedTexturedBitmap_700 = function() {
 	this.initialize(ss["HolidayCard2019_CRodas_atlas_"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_601 = function() {
+(lib.CachedTexturedBitmap_701 = function() {
 	this.initialize(ss["HolidayCard2019_CRodas_atlas_"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_602 = function() {
+(lib.CachedTexturedBitmap_702 = function() {
 	this.initialize(ss["HolidayCard2019_CRodas_atlas_"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_603 = function() {
+(lib.CachedTexturedBitmap_703 = function() {
 	this.initialize(ss["HolidayCard2019_CRodas_atlas_"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_604 = function() {
+(lib.CachedTexturedBitmap_704 = function() {
 	this.initialize(ss["HolidayCard2019_CRodas_atlas_"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_605 = function() {
+(lib.CachedTexturedBitmap_705 = function() {
 	this.initialize(ss["HolidayCard2019_CRodas_atlas_"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
@@ -75,15 +75,15 @@ lib.ssMetadata = [
 	this.timeline.addTween(cjs.Tween.get(this.btnText).wait(4));
 
 	// Shape
-	this.instance = new lib.CachedTexturedBitmap_603();
+	this.instance = new lib.CachedTexturedBitmap_703();
 	this.instance.parent = this;
 	this.instance.setTransform(-1.5,-1.5,0.5,0.5);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_604();
+	this.instance_1 = new lib.CachedTexturedBitmap_704();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-1.5,-1.5,0.5,0.5);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_605();
+	this.instance_2 = new lib.CachedTexturedBitmap_705();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(-1.5,-1.5,0.5,0.5);
 
@@ -138,28 +138,28 @@ p.nominalBounds = new cjs.Rectangle(-1.5,-1.5,253,103);
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{x:1592.65,y:960.35,text:"1",font:"48px 'Times New Roman'",color:"#000000",lineHeight:55.15,lineWidth:67}}]}).to({state:[]},1).to({state:[{t:this.text_1},{t:this.text,p:{x:2000.55,y:400.2,text:"",font:"144px 'BrushScriptMT'",color:"#CC0033",lineHeight:178.6,lineWidth:100}}]},38).wait(11));
 
 	// Layer_3
-	this.instance = new lib.CachedTexturedBitmap_599();
+	this.instance = new lib.CachedTexturedBitmap_699();
 	this.instance.parent = this;
 	this.instance.setTransform(1342.9,764.2,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(50));
 
 	// Layer_2
-	this.instance_1 = new lib.CachedTexturedBitmap_600();
+	this.instance_1 = new lib.CachedTexturedBitmap_700();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(1285.1,715.1,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(50));
 
 	// Layer_1
-	this.instance_2 = new lib.CachedTexturedBitmap_601();
+	this.instance_2 = new lib.CachedTexturedBitmap_701();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(1271.8,855.4,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(50));
 
 	// Animation
-	this.instance_3 = new lib.CachedTexturedBitmap_602();
+	this.instance_3 = new lib.CachedTexturedBitmap_702();
 	this.instance_3.parent = this;
 	this.instance_3.setTransform(483,331.3,0.5,0.5);
 
@@ -185,7 +185,7 @@ lib.properties = {
 	color: "#FFFF99",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/HolidayCard2019_CRodas_atlas_.png?1576529224963", id:"HolidayCard2019_CRodas_atlas_"}
+		{src:"images/HolidayCard2019_CRodas_atlas_.png?1576771168881", id:"HolidayCard2019_CRodas_atlas_"}
 	],
 	preloads: []
 };

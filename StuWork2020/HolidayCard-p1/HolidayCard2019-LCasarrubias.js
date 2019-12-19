@@ -7,7 +7,7 @@ lib.ssMetadata = [
 		{name:"HolidayCard2019_LCasarrubias_atlas_2", frames: [[0,0,1600,1164]]},
 		{name:"HolidayCard2019_LCasarrubias_atlas_3", frames: [[0,0,1602,1162]]},
 		{name:"HolidayCard2019_LCasarrubias_atlas_4", frames: [[0,0,1596,1162]]},
-		{name:"HolidayCard2019_LCasarrubias_atlas_5", frames: [[0,0,1280,1280],[1282,0,664,639],[0,1282,1285,639],[1282,1057,506,206],[1282,641,506,206],[1282,849,506,206],[1790,641,208,65],[1790,708,170,62],[1604,1802,320,119],[1597,1502,308,177],[1287,1265,276,235],[1565,1265,272,235],[1287,1502,308,177],[1604,1681,321,119],[1287,1681,315,126],[1790,772,176,41],[1790,858,176,41],[1790,815,176,41]]}
+		{name:"HolidayCard2019_LCasarrubias_atlas_5", frames: [[0,0,1280,1280],[1282,0,664,639],[0,1282,1285,639],[1282,641,506,206],[1282,1057,506,206],[1282,849,506,206],[1790,641,208,65],[1790,708,170,62],[1604,1802,320,119],[1287,1502,308,177],[1287,1265,276,235],[1565,1265,272,235],[1597,1502,308,177],[1604,1681,321,119],[1287,1681,315,126],[1790,815,176,41],[1790,858,176,41],[1790,772,176,41]]}
 ];
 
 
@@ -402,12 +402,12 @@ lib.properties = {
 	color: "#CCFFCC",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedTexturedBitmap_711.png?1576716619703", id:"CachedTexturedBitmap_711"},
-		{src:"images/HolidayCard2019_LCasarrubias_atlas_.png?1576716619678", id:"HolidayCard2019_LCasarrubias_atlas_"},
-		{src:"images/HolidayCard2019_LCasarrubias_atlas_2.png?1576716619678", id:"HolidayCard2019_LCasarrubias_atlas_2"},
-		{src:"images/HolidayCard2019_LCasarrubias_atlas_3.png?1576716619678", id:"HolidayCard2019_LCasarrubias_atlas_3"},
-		{src:"images/HolidayCard2019_LCasarrubias_atlas_4.png?1576716619678", id:"HolidayCard2019_LCasarrubias_atlas_4"},
-		{src:"images/HolidayCard2019_LCasarrubias_atlas_5.png?1576716619679", id:"HolidayCard2019_LCasarrubias_atlas_5"}
+		{src:"images/CachedTexturedBitmap_711.png?1576771770825", id:"CachedTexturedBitmap_711"},
+		{src:"images/HolidayCard2019_LCasarrubias_atlas_.png?1576771770806", id:"HolidayCard2019_LCasarrubias_atlas_"},
+		{src:"images/HolidayCard2019_LCasarrubias_atlas_2.png?1576771770806", id:"HolidayCard2019_LCasarrubias_atlas_2"},
+		{src:"images/HolidayCard2019_LCasarrubias_atlas_3.png?1576771770806", id:"HolidayCard2019_LCasarrubias_atlas_3"},
+		{src:"images/HolidayCard2019_LCasarrubias_atlas_4.png?1576771770806", id:"HolidayCard2019_LCasarrubias_atlas_4"},
+		{src:"images/HolidayCard2019_LCasarrubias_atlas_5.png?1576771770807", id:"HolidayCard2019_LCasarrubias_atlas_5"}
 	],
 	preloads: []
 };

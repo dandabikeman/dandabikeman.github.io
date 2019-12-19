@@ -4,7 +4,7 @@ var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
 		{name:"HolidayCard2019_MAmaro_atlas_", frames: [[0,0,1131,1401]]},
-		{name:"HolidayCard2019_MAmaro_atlas_2", frames: [[0,1403,506,206],[0,1611,506,206],[0,1819,506,206],[0,0,1131,1401],[508,1403,275,295]]}
+		{name:"HolidayCard2019_MAmaro_atlas_2", frames: [[0,1819,506,206],[0,1611,506,206],[0,1403,506,206],[0,0,1131,1401],[508,1403,275,295]]}
 ];
 
 
@@ -12,48 +12,48 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedTexturedBitmap_1736 = function() {
+(lib.CachedTexturedBitmap_78 = function() {
 	this.initialize(ss["HolidayCard2019_MAmaro_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_1737 = function() {
+(lib.CachedTexturedBitmap_79 = function() {
 	this.initialize(ss["HolidayCard2019_MAmaro_atlas_2"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_1738 = function() {
+(lib.CachedTexturedBitmap_80 = function() {
 	this.initialize(ss["HolidayCard2019_MAmaro_atlas_2"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_1741 = function() {
+(lib.CachedTexturedBitmap_83 = function() {
 	this.initialize(ss["HolidayCard2019_MAmaro_atlas_2"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_1742 = function() {
+(lib.CachedTexturedBitmap_84 = function() {
 	this.initialize(ss["HolidayCard2019_MAmaro_atlas_"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_1743 = function() {
-	this.initialize(img.CachedTexturedBitmap_1743);
+(lib.CachedTexturedBitmap_85 = function() {
+	this.initialize(img.CachedTexturedBitmap_85);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,2294,1636);
 
 
-(lib.CachedTexturedBitmap_1744 = function() {
+(lib.CachedTexturedBitmap_86 = function() {
 	this.initialize(ss["HolidayCard2019_MAmaro_atlas_2"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
@@ -64,22 +64,22 @@ p.nominalBounds = new cjs.Rectangle(0,0,2294,1636);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Lights
-	this.instance = new lib.CachedTexturedBitmap_1741();
+	this.instance = new lib.CachedTexturedBitmap_83();
 	this.instance.parent = this;
 	this.instance.setTransform(-155.65,-203.15,0.2437,0.2437);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_1742();
+	this.instance_1 = new lib.CachedTexturedBitmap_84();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-155.65,-203.15,0.2437,0.2437);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance}]}).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance_1}]},5).wait(3));
 
 	// Tree_Base
-	this.instance_2 = new lib.CachedTexturedBitmap_1744();
+	this.instance_2 = new lib.CachedTexturedBitmap_86();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(-46.5,142.45,0.2437,0.2437);
 
-	this.instance_3 = new lib.CachedTexturedBitmap_1743();
+	this.instance_3 = new lib.CachedTexturedBitmap_85();
 	this.instance_3.parent = this;
 	this.instance_3.setTransform(-389.25,-233.1,0.2437,0.2437);
 
@@ -104,15 +104,15 @@ p.nominalBounds = new cjs.Rectangle(-389.2,-233.1,559.1,447.5);
 	this.timeline.addTween(cjs.Tween.get(this.btnText).wait(4));
 
 	// Shape
-	this.instance = new lib.CachedTexturedBitmap_1736();
+	this.instance = new lib.CachedTexturedBitmap_78();
 	this.instance.parent = this;
 	this.instance.setTransform(-1.5,-1.5,0.5,0.5);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_1737();
+	this.instance_1 = new lib.CachedTexturedBitmap_79();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-1.5,-1.5,0.5,0.5);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_1738();
+	this.instance_2 = new lib.CachedTexturedBitmap_80();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(-1.5,-1.5,0.5,0.5);
 
@@ -187,9 +187,9 @@ lib.properties = {
 	color: "#AFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedTexturedBitmap_1743.png?1576717193701", id:"CachedTexturedBitmap_1743"},
-		{src:"images/HolidayCard2019_MAmaro_atlas_.png?1576717193694", id:"HolidayCard2019_MAmaro_atlas_"},
-		{src:"images/HolidayCard2019_MAmaro_atlas_2.png?1576717193694", id:"HolidayCard2019_MAmaro_atlas_2"}
+		{src:"images/CachedTexturedBitmap_85.png?1576771911475", id:"CachedTexturedBitmap_85"},
+		{src:"images/HolidayCard2019_MAmaro_atlas_.png?1576771911468", id:"HolidayCard2019_MAmaro_atlas_"},
+		{src:"images/HolidayCard2019_MAmaro_atlas_2.png?1576771911468", id:"HolidayCard2019_MAmaro_atlas_2"}
 	],
 	preloads: []
 };

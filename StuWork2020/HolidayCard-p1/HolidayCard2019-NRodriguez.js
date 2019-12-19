@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"HolidayCard2019_NRodriguez_atlas_", frames: [[508,416,240,255],[371,0,506,206],[371,208,506,206],[0,515,506,206],[0,0,369,513],[508,673,131,121]]}
+		{name:"HolidayCard2019_NRodriguez_atlas_", frames: [[508,416,240,255],[371,208,506,206],[0,515,506,206],[371,0,506,206],[0,0,369,513],[508,673,131,121]]}
 ];
 
 
@@ -18,93 +18,93 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedTexturedBitmap_1 = function() {
-	this.initialize(img.CachedTexturedBitmap_1);
+(lib.CachedTexturedBitmap_27 = function() {
+	this.initialize(img.CachedTexturedBitmap_27);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,4653,2146);
 
 
-(lib.CachedTexturedBitmap_10 = function() {
+(lib.CachedTexturedBitmap_28 = function() {
+	this.initialize(img.CachedTexturedBitmap_28);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,4653,2146);
+
+
+(lib.CachedTexturedBitmap_29 = function() {
+	this.initialize(img.CachedTexturedBitmap_29);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,4653,2146);
+
+
+(lib.CachedTexturedBitmap_30 = function() {
+	this.initialize(img.CachedTexturedBitmap_30);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,4653,2146);
+
+
+(lib.CachedTexturedBitmap_31 = function() {
+	this.initialize(img.CachedTexturedBitmap_31);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,4653,2146);
+
+
+(lib.CachedTexturedBitmap_32 = function() {
+	this.initialize(img.CachedTexturedBitmap_32);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,4653,2146);
+
+
+(lib.CachedTexturedBitmap_33 = function() {
+	this.initialize(img.CachedTexturedBitmap_33);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,4653,2146);
+
+
+(lib.CachedTexturedBitmap_34 = function() {
+	this.initialize(img.CachedTexturedBitmap_34);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,4653,2146);
+
+
+(lib.CachedTexturedBitmap_35 = function() {
+	this.initialize(img.CachedTexturedBitmap_35);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,4653,2146);
+
+
+(lib.CachedTexturedBitmap_36 = function() {
 	this.initialize(ss["HolidayCard2019_NRodriguez_atlas_"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_11 = function() {
+(lib.CachedTexturedBitmap_37 = function() {
 	this.initialize(ss["HolidayCard2019_NRodriguez_atlas_"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_12 = function() {
+(lib.CachedTexturedBitmap_38 = function() {
 	this.initialize(ss["HolidayCard2019_NRodriguez_atlas_"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_13 = function() {
+(lib.CachedTexturedBitmap_39 = function() {
 	this.initialize(ss["HolidayCard2019_NRodriguez_atlas_"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_14 = function() {
+(lib.CachedTexturedBitmap_40 = function() {
 	this.initialize(ss["HolidayCard2019_NRodriguez_atlas_"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_2 = function() {
-	this.initialize(img.CachedTexturedBitmap_2);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4653,2146);
-
-
-(lib.CachedTexturedBitmap_3 = function() {
-	this.initialize(img.CachedTexturedBitmap_3);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4653,2146);
-
-
-(lib.CachedTexturedBitmap_4 = function() {
-	this.initialize(img.CachedTexturedBitmap_4);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4653,2146);
-
-
-(lib.CachedTexturedBitmap_5 = function() {
-	this.initialize(img.CachedTexturedBitmap_5);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4653,2146);
-
-
-(lib.CachedTexturedBitmap_6 = function() {
-	this.initialize(img.CachedTexturedBitmap_6);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4653,2146);
-
-
-(lib.CachedTexturedBitmap_7 = function() {
-	this.initialize(img.CachedTexturedBitmap_7);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4653,2146);
-
-
-(lib.CachedTexturedBitmap_8 = function() {
-	this.initialize(img.CachedTexturedBitmap_8);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4653,2146);
-
-
-(lib.CachedTexturedBitmap_9 = function() {
-	this.initialize(img.CachedTexturedBitmap_9);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4653,2146);// helper functions:
+// helper functions:
 
 function mc_symbol_clone() {
 	var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
@@ -127,7 +127,7 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// srur
-	this.instance = new lib.CachedTexturedBitmap_13();
+	this.instance = new lib.CachedTexturedBitmap_39();
 	this.instance.parent = this;
 	this.instance.setTransform(-238.75,-287.25,0.5,0.5);
 
@@ -138,7 +138,7 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-260,-267);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_14();
+	this.instance_2 = new lib.CachedTexturedBitmap_40();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(-170.85,-19.05,0.5,0.5);
 
@@ -162,15 +162,15 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	this.timeline.addTween(cjs.Tween.get(this.btnText).wait(4));
 
 	// Shape
-	this.instance = new lib.CachedTexturedBitmap_10();
+	this.instance = new lib.CachedTexturedBitmap_36();
 	this.instance.parent = this;
 	this.instance.setTransform(-1.5,-1.5,0.5,0.5);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_11();
+	this.instance_1 = new lib.CachedTexturedBitmap_37();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-1.5,-1.5,0.5,0.5);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_12();
+	this.instance_2 = new lib.CachedTexturedBitmap_38();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(-1.5,-1.5,0.5,0.5);
 
@@ -232,39 +232,39 @@ p.nominalBounds = new cjs.Rectangle(-1.5,-1.5,253,103);
 	this.timeline.addTween(cjs.Tween.get(this.instance).to({_off:true},50).wait(1));
 
 	// Animation
-	this.instance_1 = new lib.CachedTexturedBitmap_1();
+	this.instance_1 = new lib.CachedTexturedBitmap_27();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-312.25,0,0.5,0.5);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_2();
+	this.instance_2 = new lib.CachedTexturedBitmap_28();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(-312.25,0,0.5,0.5);
 
-	this.instance_3 = new lib.CachedTexturedBitmap_3();
+	this.instance_3 = new lib.CachedTexturedBitmap_29();
 	this.instance_3.parent = this;
 	this.instance_3.setTransform(-312.25,0,0.5,0.5);
 
-	this.instance_4 = new lib.CachedTexturedBitmap_4();
+	this.instance_4 = new lib.CachedTexturedBitmap_30();
 	this.instance_4.parent = this;
 	this.instance_4.setTransform(-312.25,0,0.5,0.5);
 
-	this.instance_5 = new lib.CachedTexturedBitmap_5();
+	this.instance_5 = new lib.CachedTexturedBitmap_31();
 	this.instance_5.parent = this;
 	this.instance_5.setTransform(-312.25,0,0.5,0.5);
 
-	this.instance_6 = new lib.CachedTexturedBitmap_6();
+	this.instance_6 = new lib.CachedTexturedBitmap_32();
 	this.instance_6.parent = this;
 	this.instance_6.setTransform(-312.25,0,0.5,0.5);
 
-	this.instance_7 = new lib.CachedTexturedBitmap_7();
+	this.instance_7 = new lib.CachedTexturedBitmap_33();
 	this.instance_7.parent = this;
 	this.instance_7.setTransform(-312.25,0,0.5,0.5);
 
-	this.instance_8 = new lib.CachedTexturedBitmap_8();
+	this.instance_8 = new lib.CachedTexturedBitmap_34();
 	this.instance_8.parent = this;
 	this.instance_8.setTransform(-312.25,0,0.5,0.5);
 
-	this.instance_9 = new lib.CachedTexturedBitmap_9();
+	this.instance_9 = new lib.CachedTexturedBitmap_35();
 	this.instance_9.parent = this;
 	this.instance_9.setTransform(-312.25,0,0.5,0.5);
 
@@ -290,16 +290,16 @@ lib.properties = {
 	color: "#9999CC",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedTexturedBitmap_1.png?1576615109121", id:"CachedTexturedBitmap_1"},
-		{src:"images/CachedTexturedBitmap_2.png?1576615109121", id:"CachedTexturedBitmap_2"},
-		{src:"images/CachedTexturedBitmap_3.png?1576615109121", id:"CachedTexturedBitmap_3"},
-		{src:"images/CachedTexturedBitmap_4.png?1576615109121", id:"CachedTexturedBitmap_4"},
-		{src:"images/CachedTexturedBitmap_5.png?1576615109121", id:"CachedTexturedBitmap_5"},
-		{src:"images/CachedTexturedBitmap_6.png?1576615109121", id:"CachedTexturedBitmap_6"},
-		{src:"images/CachedTexturedBitmap_7.png?1576615109121", id:"CachedTexturedBitmap_7"},
-		{src:"images/CachedTexturedBitmap_8.png?1576615109121", id:"CachedTexturedBitmap_8"},
-		{src:"images/CachedTexturedBitmap_9.png?1576615109121", id:"CachedTexturedBitmap_9"},
-		{src:"images/HolidayCard2019_NRodriguez_atlas_.png?1576615109098", id:"HolidayCard2019_NRodriguez_atlas_"}
+		{src:"images/CachedTexturedBitmap_27.png?1576772134177", id:"CachedTexturedBitmap_27"},
+		{src:"images/CachedTexturedBitmap_28.png?1576772134177", id:"CachedTexturedBitmap_28"},
+		{src:"images/CachedTexturedBitmap_29.png?1576772134177", id:"CachedTexturedBitmap_29"},
+		{src:"images/CachedTexturedBitmap_30.png?1576772134177", id:"CachedTexturedBitmap_30"},
+		{src:"images/CachedTexturedBitmap_31.png?1576772134177", id:"CachedTexturedBitmap_31"},
+		{src:"images/CachedTexturedBitmap_32.png?1576772134177", id:"CachedTexturedBitmap_32"},
+		{src:"images/CachedTexturedBitmap_33.png?1576772134177", id:"CachedTexturedBitmap_33"},
+		{src:"images/CachedTexturedBitmap_34.png?1576772134177", id:"CachedTexturedBitmap_34"},
+		{src:"images/CachedTexturedBitmap_35.png?1576772134177", id:"CachedTexturedBitmap_35"},
+		{src:"images/HolidayCard2019_NRodriguez_atlas_.png?1576772134157", id:"HolidayCard2019_NRodriguez_atlas_"}
 	],
 	preloads: []
 };

@@ -4,8 +4,8 @@ var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
 		{name:"HolidayCard2019_ARodriguez_atlas_", frames: [[0,0,1835,1630]]},
-		{name:"HolidayCard2019_ARodriguez_atlas_2", frames: [[1296,927,506,206],[1296,1135,506,206],[1296,1343,506,206],[1295,1551,531,193],[1196,1746,526,132],[1196,1880,526,132],[0,1866,526,132],[743,0,372,587],[0,1466,637,398],[1573,509,415,253],[639,1685,555,310],[743,1346,550,337],[1117,0,468,416],[1587,0,357,507],[1214,418,357,507],[743,589,469,415],[743,1006,551,338],[0,0,741,1464]]},
-		{name:"HolidayCard2019_ARodriguez_atlas_3", frames: [[278,670,207,57],[556,984,374,176],[0,1162,267,169],[0,536,526,132],[0,0,526,132],[0,402,526,132],[0,134,526,132],[0,268,526,132],[528,246,276,244],[0,916,276,244],[528,492,276,244],[0,670,276,244],[278,984,276,244],[556,738,276,244],[278,738,276,244],[528,0,276,244]]}
+		{name:"HolidayCard2019_ARodriguez_atlas_2", frames: [[1296,1343,506,206],[1296,927,506,206],[1296,1135,506,206],[1295,1551,531,193],[1196,1880,526,132],[0,1866,526,132],[1196,1746,526,132],[743,0,372,587],[0,1466,637,398],[1573,509,415,253],[639,1685,555,310],[743,1346,550,337],[1117,0,468,416],[1214,418,357,507],[1587,0,357,507],[743,589,469,415],[743,1006,551,338],[0,0,741,1464]]},
+		{name:"HolidayCard2019_ARodriguez_atlas_3", frames: [[278,670,207,57],[556,984,374,176],[0,1162,267,169],[0,536,526,132],[0,134,526,132],[0,268,526,132],[0,0,526,132],[0,402,526,132],[278,738,276,244],[528,492,276,244],[0,916,276,244],[556,738,276,244],[0,670,276,244],[528,0,276,244],[528,246,276,244],[278,984,276,244]]}
 ];
 
 
@@ -13,245 +13,245 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedTexturedBitmap_203 = function() {
+(lib.CachedTexturedBitmap_254 = function() {
 	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_204 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_205 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_206 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
-	this.gotoAndStop(2);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_207 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
-	this.gotoAndStop(3);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_208 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_209 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_210 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
-	this.gotoAndStop(2);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_225 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
-	this.gotoAndStop(3);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_226 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
-	this.gotoAndStop(4);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_227 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
-	this.gotoAndStop(5);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_228 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
-	this.gotoAndStop(6);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_229 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
-	this.gotoAndStop(4);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_230 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
-	this.gotoAndStop(5);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_231 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
-	this.gotoAndStop(6);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_232 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
-	this.gotoAndStop(7);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_233 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
-	this.gotoAndStop(7);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_234 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
-	this.gotoAndStop(8);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_235 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
-	this.gotoAndStop(9);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_236 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
-	this.gotoAndStop(10);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_244 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
-	this.gotoAndStop(11);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_245 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
-	this.gotoAndStop(12);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_246 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
-	this.gotoAndStop(13);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_248 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
-	this.gotoAndStop(14);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_249 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
-	this.gotoAndStop(15);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_251 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
-	this.gotoAndStop(16);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_253 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
-	this.gotoAndStop(8);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_254 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
-	this.gotoAndStop(9);
-}).prototype = p = new cjs.Sprite();
-
-
-
 (lib.CachedTexturedBitmap_255 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
-	this.gotoAndStop(10);
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_256 = function() {
-	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
-	this.gotoAndStop(11);
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_257 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
+	this.gotoAndStop(2);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_258 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
+	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_259 = function() {
 	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
-	this.gotoAndStop(12);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_260 = function() {
 	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
-	this.gotoAndStop(13);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_261 = function() {
 	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
+	this.gotoAndStop(2);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_276 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
+	this.gotoAndStop(3);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_277 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
+	this.gotoAndStop(4);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_278 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
+	this.gotoAndStop(4);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_279 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
+	this.gotoAndStop(5);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_280 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
+	this.gotoAndStop(6);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_281 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
+	this.gotoAndStop(7);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_282 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
+	this.gotoAndStop(5);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_283 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
+	this.gotoAndStop(6);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_284 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
+	this.gotoAndStop(7);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_285 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
+	this.gotoAndStop(8);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_286 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
+	this.gotoAndStop(9);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_287 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
+	this.gotoAndStop(10);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_295 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
+	this.gotoAndStop(11);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_296 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
+	this.gotoAndStop(12);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_297 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
+	this.gotoAndStop(13);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_299 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_262 = function() {
+(lib.CachedTexturedBitmap_300 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
+	this.gotoAndStop(15);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_302 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
+	this.gotoAndStop(16);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_304 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
+	this.gotoAndStop(8);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_305 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
+	this.gotoAndStop(9);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_306 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
+	this.gotoAndStop(10);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_307 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
+	this.gotoAndStop(11);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_310 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
+	this.gotoAndStop(12);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_311 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
+	this.gotoAndStop(13);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_312 = function() {
+	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
+	this.gotoAndStop(14);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_313 = function() {
 	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_3"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_263 = function() {
+(lib.CachedTexturedBitmap_314 = function() {
 	this.initialize(ss["HolidayCard2019_ARodriguez_atlas_2"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
@@ -262,90 +262,90 @@ lib.ssMetadata = [
 	this.initialize(mode,startPosition,loop,{});
 
 	// Hat
-	this.instance = new lib.CachedTexturedBitmap_234();
+	this.instance = new lib.CachedTexturedBitmap_285();
 	this.instance.parent = this;
 	this.instance.setTransform(-49.95,-167.25,0.2376,0.2376);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(50));
 
 	// Scarf
-	this.instance_1 = new lib.CachedTexturedBitmap_235();
+	this.instance_1 = new lib.CachedTexturedBitmap_286();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-50.55,-41.3,0.2376,0.2376);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(50));
 
 	// Other_arm
-	this.instance_2 = new lib.CachedTexturedBitmap_236();
+	this.instance_2 = new lib.CachedTexturedBitmap_287();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(52.15,-63,0.2376,0.2376);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(50));
 
 	// Arms
-	this.instance_3 = new lib.CachedTexturedBitmap_244();
+	this.instance_3 = new lib.CachedTexturedBitmap_295();
 	this.instance_3.parent = this;
 	this.instance_3.setTransform(-180.35,-69.6,0.2376,0.2376);
 
-	this.instance_4 = new lib.CachedTexturedBitmap_245();
+	this.instance_4 = new lib.CachedTexturedBitmap_296();
 	this.instance_4.parent = this;
 	this.instance_4.setTransform(-160.85,-88.45,0.2376,0.2376);
 
-	this.instance_5 = new lib.CachedTexturedBitmap_246();
+	this.instance_5 = new lib.CachedTexturedBitmap_297();
 	this.instance_5.parent = this;
 	this.instance_5.setTransform(-138.65,-110,0.2376,0.2376);
 
-	this.instance_6 = new lib.CachedTexturedBitmap_248();
+	this.instance_6 = new lib.CachedTexturedBitmap_299();
 	this.instance_6.parent = this;
 	this.instance_6.setTransform(-139.85,-109.95,0.2376,0.2376);
 
-	this.instance_7 = new lib.CachedTexturedBitmap_249();
+	this.instance_7 = new lib.CachedTexturedBitmap_300();
 	this.instance_7.parent = this;
 	this.instance_7.setTransform(-160.9,-87,0.2376,0.2376);
 
-	this.instance_8 = new lib.CachedTexturedBitmap_251();
+	this.instance_8 = new lib.CachedTexturedBitmap_302();
 	this.instance_8.parent = this;
 	this.instance_8.setTransform(-180.45,-69.7,0.2376,0.2376);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_3}]}).to({state:[{t:this.instance_4}]},4).to({state:[{t:this.instance_5}]},1).to({state:[{t:this.instance_6}]},2).to({state:[{t:this.instance_6}]},1).to({state:[{t:this.instance_7}]},1).to({state:[{t:this.instance_8}]},1).to({state:[{t:this.instance_3}]},2).to({state:[{t:this.instance_4}]},1).to({state:[{t:this.instance_5}]},1).to({state:[{t:this.instance_6}]},2).to({state:[{t:this.instance_6}]},1).to({state:[{t:this.instance_7}]},1).to({state:[{t:this.instance_8}]},1).to({state:[{t:this.instance_8}]},30).wait(1));
 
 	// Face_Features
-	this.instance_9 = new lib.CachedTexturedBitmap_253();
+	this.instance_9 = new lib.CachedTexturedBitmap_304();
 	this.instance_9.parent = this;
 	this.instance_9.setTransform(-27.9,-97.2,0.2376,0.2376);
 
-	this.instance_10 = new lib.CachedTexturedBitmap_254();
+	this.instance_10 = new lib.CachedTexturedBitmap_305();
 	this.instance_10.parent = this;
 	this.instance_10.setTransform(-27.9,-97.2,0.2376,0.2376);
 
-	this.instance_11 = new lib.CachedTexturedBitmap_255();
+	this.instance_11 = new lib.CachedTexturedBitmap_306();
 	this.instance_11.parent = this;
 	this.instance_11.setTransform(-27.9,-97.2,0.2376,0.2376);
 
-	this.instance_12 = new lib.CachedTexturedBitmap_256();
+	this.instance_12 = new lib.CachedTexturedBitmap_307();
 	this.instance_12.parent = this;
 	this.instance_12.setTransform(-27.9,-97.2,0.2376,0.2376);
 
-	this.instance_13 = new lib.CachedTexturedBitmap_259();
+	this.instance_13 = new lib.CachedTexturedBitmap_310();
 	this.instance_13.parent = this;
 	this.instance_13.setTransform(-27.9,-97.2,0.2376,0.2376);
 
-	this.instance_14 = new lib.CachedTexturedBitmap_260();
+	this.instance_14 = new lib.CachedTexturedBitmap_311();
 	this.instance_14.parent = this;
 	this.instance_14.setTransform(-27.9,-97.2,0.2376,0.2376);
 
-	this.instance_15 = new lib.CachedTexturedBitmap_261();
+	this.instance_15 = new lib.CachedTexturedBitmap_312();
 	this.instance_15.parent = this;
 	this.instance_15.setTransform(-27.9,-97.2,0.2376,0.2376);
 
-	this.instance_16 = new lib.CachedTexturedBitmap_262();
+	this.instance_16 = new lib.CachedTexturedBitmap_313();
 	this.instance_16.parent = this;
 	this.instance_16.setTransform(-27.9,-97.2,0.2376,0.2376);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_9}]}).to({state:[{t:this.instance_9}]},26).to({state:[{t:this.instance_10}]},1).to({state:[{t:this.instance_11}]},1).to({state:[{t:this.instance_12}]},1).to({state:[{t:this.instance_13}]},1).to({state:[{t:this.instance_13}]},1).to({state:[{t:this.instance_13}]},1).to({state:[{t:this.instance_14}]},1).to({state:[{t:this.instance_15}]},1).to({state:[{t:this.instance_16}]},1).wait(15));
 
 	// Snowman_Body
-	this.instance_17 = new lib.CachedTexturedBitmap_263();
+	this.instance_17 = new lib.CachedTexturedBitmap_314();
 	this.instance_17.parent = this;
 	this.instance_17.setTransform(-86.5,-127.4,0.2376,0.2376);
 
@@ -359,64 +359,64 @@ p.nominalBounds = new cjs.Rectangle(-180.4,-167.2,364.5,387.7);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Arms
-	this.instance = new lib.CachedTexturedBitmap_207();
+	this.instance = new lib.CachedTexturedBitmap_258();
 	this.instance.parent = this;
 	this.instance.setTransform(-210.9,58.3,0.2017,0.2017);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(120));
 
 	// Feet
-	this.instance_1 = new lib.CachedTexturedBitmap_208();
+	this.instance_1 = new lib.CachedTexturedBitmap_259();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-177.25,117.6,0.2017,0.2017);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(120));
 
 	// scarf
-	this.instance_2 = new lib.CachedTexturedBitmap_209();
+	this.instance_2 = new lib.CachedTexturedBitmap_260();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(-194.45,45.5,0.2017,0.2017);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(120));
 
 	// Face
-	this.instance_3 = new lib.CachedTexturedBitmap_210();
+	this.instance_3 = new lib.CachedTexturedBitmap_261();
 	this.instance_3.parent = this;
 	this.instance_3.setTransform(-184.05,17.4,0.2017,0.2017);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(120));
 
 	// Ortimant_
-	this.instance_4 = new lib.CachedTexturedBitmap_225();
+	this.instance_4 = new lib.CachedTexturedBitmap_276();
 	this.instance_4.parent = this;
 	this.instance_4.setTransform(-208.25,92,0.2017,0.2017);
 
-	this.instance_5 = new lib.CachedTexturedBitmap_226();
+	this.instance_5 = new lib.CachedTexturedBitmap_277();
 	this.instance_5.parent = this;
 	this.instance_5.setTransform(-208.25,92,0.2017,0.2017);
 
-	this.instance_6 = new lib.CachedTexturedBitmap_227();
+	this.instance_6 = new lib.CachedTexturedBitmap_278();
 	this.instance_6.parent = this;
 	this.instance_6.setTransform(-208.25,92,0.2017,0.2017);
 
-	this.instance_7 = new lib.CachedTexturedBitmap_228();
+	this.instance_7 = new lib.CachedTexturedBitmap_279();
 	this.instance_7.parent = this;
 	this.instance_7.setTransform(-208.25,92,0.2017,0.2017);
 
-	this.instance_8 = new lib.CachedTexturedBitmap_229();
+	this.instance_8 = new lib.CachedTexturedBitmap_280();
 	this.instance_8.parent = this;
 	this.instance_8.setTransform(-208.25,92,0.2017,0.2017);
 
-	this.instance_9 = new lib.CachedTexturedBitmap_230();
+	this.instance_9 = new lib.CachedTexturedBitmap_281();
 	this.instance_9.parent = this;
 	this.instance_9.setTransform(-208.25,92,0.2017,0.2017);
 	this.instance_9._off = true;
 
-	this.instance_10 = new lib.CachedTexturedBitmap_231();
+	this.instance_10 = new lib.CachedTexturedBitmap_282();
 	this.instance_10.parent = this;
 	this.instance_10.setTransform(-208.25,92,0.2017,0.2017);
 
-	this.instance_11 = new lib.CachedTexturedBitmap_232();
+	this.instance_11 = new lib.CachedTexturedBitmap_283();
 	this.instance_11.parent = this;
 	this.instance_11.setTransform(-208.25,92,0.2017,0.2017);
 
@@ -424,7 +424,7 @@ p.nominalBounds = new cjs.Rectangle(-180.4,-167.2,364.5,387.7);
 	this.timeline.addTween(cjs.Tween.get(this.instance_9).wait(24).to({_off:false},0).wait(5).to({_off:true},6).wait(24).to({_off:false},0).wait(5).to({_off:true},5).wait(24).to({_off:false},0).to({_off:true},5).wait(22));
 
 	// Owl_Body
-	this.instance_12 = new lib.CachedTexturedBitmap_233();
+	this.instance_12 = new lib.CachedTexturedBitmap_284();
 	this.instance_12.parent = this;
 	this.instance_12.setTransform(-193.3,2.45,0.2017,0.2017);
 
@@ -449,15 +449,15 @@ p.nominalBounds = new cjs.Rectangle(-210.9,2.5,108.80000000000001,126.6);
 	this.timeline.addTween(cjs.Tween.get(this.btnText).wait(4));
 
 	// Shape
-	this.instance = new lib.CachedTexturedBitmap_204();
+	this.instance = new lib.CachedTexturedBitmap_255();
 	this.instance.parent = this;
 	this.instance.setTransform(-1.5,-1.5,0.5,0.5);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_205();
+	this.instance_1 = new lib.CachedTexturedBitmap_256();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-1.5,-1.5,0.5,0.5);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_206();
+	this.instance_2 = new lib.CachedTexturedBitmap_257();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(-1.5,-1.5,0.5,0.5);
 
@@ -512,7 +512,7 @@ p.nominalBounds = new cjs.Rectangle(-1.5,-1.5,253,103);
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{x:1592.65,y:960.35,text:"1",font:"48px 'Times New Roman'",lineHeight:55.15,lineWidth:67}}]}).to({state:[]},1).to({state:[{t:this.text_1},{t:this.text,p:{x:1371.1,y:944.25,text:"Created In Computor Art\nA. Rodriguez\nDecember 2019",font:"30px 'Times New Roman'",lineHeight:35.25,lineWidth:307}}]},38).wait(11));
 
 	// Animation
-	this.instance = new lib.CachedTexturedBitmap_203();
+	this.instance = new lib.CachedTexturedBitmap_254();
 	this.instance.parent = this;
 	this.instance.setTransform(655.75,146.1,0.5,0.5);
 
@@ -546,9 +546,9 @@ lib.properties = {
 	color: "#99FFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/HolidayCard2019_ARodriguez_atlas_.png?1576528832292", id:"HolidayCard2019_ARodriguez_atlas_"},
-		{src:"images/HolidayCard2019_ARodriguez_atlas_2.png?1576528832293", id:"HolidayCard2019_ARodriguez_atlas_2"},
-		{src:"images/HolidayCard2019_ARodriguez_atlas_3.png?1576528832293", id:"HolidayCard2019_ARodriguez_atlas_3"}
+		{src:"images/HolidayCard2019_ARodriguez_atlas_.png?1576771108169", id:"HolidayCard2019_ARodriguez_atlas_"},
+		{src:"images/HolidayCard2019_ARodriguez_atlas_2.png?1576771108169", id:"HolidayCard2019_ARodriguez_atlas_2"},
+		{src:"images/HolidayCard2019_ARodriguez_atlas_3.png?1576771108170", id:"HolidayCard2019_ARodriguez_atlas_3"}
 	],
 	preloads: []
 };

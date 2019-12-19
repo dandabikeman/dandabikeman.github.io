@@ -5,7 +5,7 @@ var lib={};var ss={};var img={};
 lib.ssMetadata = [
 		{name:"HolidayCard2019_TValdivia_atlas_", frames: [[0,0,1885,1074]]},
 		{name:"HolidayCard2019_TValdivia_atlas_2", frames: [[0,0,1885,1074]]},
-		{name:"HolidayCard2019_TValdivia_atlas_3", frames: [[892,1076,506,206],[892,1284,506,206],[892,1492,506,206],[0,0,1885,1074],[1400,1126,218,48],[1400,1076,218,48],[1400,1176,218,48],[1400,1226,27,27],[0,1076,444,834],[446,1076,444,834]]}
+		{name:"HolidayCard2019_TValdivia_atlas_3", frames: [[892,1076,506,206],[892,1492,506,206],[892,1284,506,206],[1400,1176,218,48],[0,0,1885,1074],[1400,1126,218,48],[1400,1076,218,48],[1400,1226,27,27],[446,1076,444,834],[0,1076,444,834]]}
 ];
 
 
@@ -13,84 +13,84 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedTexturedBitmap_15 = function() {
+(lib.CachedTexturedBitmap_108 = function() {
 	this.initialize(ss["HolidayCard2019_TValdivia_atlas_3"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_16 = function() {
+(lib.CachedTexturedBitmap_109 = function() {
 	this.initialize(ss["HolidayCard2019_TValdivia_atlas_3"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_17 = function() {
+(lib.CachedTexturedBitmap_110 = function() {
 	this.initialize(ss["HolidayCard2019_TValdivia_atlas_3"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_18 = function() {
-	this.initialize(ss["HolidayCard2019_TValdivia_atlas_3"]);
-	this.gotoAndStop(3);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_19 = function() {
-	this.initialize(ss["HolidayCard2019_TValdivia_atlas_3"]);
-	this.gotoAndStop(4);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_20 = function() {
-	this.initialize(ss["HolidayCard2019_TValdivia_atlas_"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_21 = function() {
-	this.initialize(ss["HolidayCard2019_TValdivia_atlas_3"]);
-	this.gotoAndStop(5);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_22 = function() {
+(lib.CachedTexturedBitmap_111 = function() {
 	this.initialize(ss["HolidayCard2019_TValdivia_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_23 = function() {
+(lib.CachedTexturedBitmap_112 = function() {
+	this.initialize(ss["HolidayCard2019_TValdivia_atlas_3"]);
+	this.gotoAndStop(3);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_113 = function() {
+	this.initialize(ss["HolidayCard2019_TValdivia_atlas_3"]);
+	this.gotoAndStop(4);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_114 = function() {
+	this.initialize(ss["HolidayCard2019_TValdivia_atlas_3"]);
+	this.gotoAndStop(5);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_115 = function() {
+	this.initialize(ss["HolidayCard2019_TValdivia_atlas_"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_116 = function() {
 	this.initialize(ss["HolidayCard2019_TValdivia_atlas_3"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_24 = function() {
+(lib.CachedTexturedBitmap_117 = function() {
 	this.initialize(ss["HolidayCard2019_TValdivia_atlas_3"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_26 = function() {
+(lib.CachedTexturedBitmap_119 = function() {
 	this.initialize(ss["HolidayCard2019_TValdivia_atlas_3"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_27 = function() {
+(lib.CachedTexturedBitmap_120 = function() {
 	this.initialize(ss["HolidayCard2019_TValdivia_atlas_3"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
@@ -101,45 +101,45 @@ lib.ssMetadata = [
 	this.initialize(mode,startPosition,loop,{});
 
 	// accesories_
-	this.instance = new lib.CachedTexturedBitmap_19();
+	this.instance = new lib.CachedTexturedBitmap_112();
 	this.instance.parent = this;
 	this.instance.setTransform(-326,-271,0.5,0.5);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_18();
+	this.instance_1 = new lib.CachedTexturedBitmap_111();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-432.35,-214.5,0.5,0.5);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_21();
+	this.instance_2 = new lib.CachedTexturedBitmap_114();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(-326,-271,0.5,0.5);
 
-	this.instance_3 = new lib.CachedTexturedBitmap_20();
+	this.instance_3 = new lib.CachedTexturedBitmap_113();
 	this.instance_3.parent = this;
 	this.instance_3.setTransform(-432.35,-214.5,0.5,0.5);
 
-	this.instance_4 = new lib.CachedTexturedBitmap_23();
+	this.instance_4 = new lib.CachedTexturedBitmap_116();
 	this.instance_4.parent = this;
 	this.instance_4.setTransform(-326,-271,0.5,0.5);
 
-	this.instance_5 = new lib.CachedTexturedBitmap_22();
+	this.instance_5 = new lib.CachedTexturedBitmap_115();
 	this.instance_5.parent = this;
 	this.instance_5.setTransform(-432.35,-214.5,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_1},{t:this.instance}]}).to({state:[{t:this.instance_3},{t:this.instance_2}]},3).to({state:[{t:this.instance_5},{t:this.instance_4}]},2).wait(5));
 
 	// body
-	this.instance_6 = new lib.CachedTexturedBitmap_24();
+	this.instance_6 = new lib.CachedTexturedBitmap_117();
 	this.instance_6.parent = this;
 	this.instance_6.setTransform(-38,88.5,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_6).wait(10));
 
 	// construction_lines_
-	this.instance_7 = new lib.CachedTexturedBitmap_26();
+	this.instance_7 = new lib.CachedTexturedBitmap_119();
 	this.instance_7.parent = this;
 	this.instance_7.setTransform(-134.5,-122.45,0.5,0.5);
 
-	this.instance_8 = new lib.CachedTexturedBitmap_27();
+	this.instance_8 = new lib.CachedTexturedBitmap_120();
 	this.instance_8.parent = this;
 	this.instance_8.setTransform(-134.5,-122.45,0.5,0.5);
 
@@ -164,15 +164,15 @@ p.nominalBounds = new cjs.Rectangle(-432.3,-271,942.5,593.5);
 	this.timeline.addTween(cjs.Tween.get(this.btnText).wait(4));
 
 	// Shape
-	this.instance = new lib.CachedTexturedBitmap_15();
+	this.instance = new lib.CachedTexturedBitmap_108();
 	this.instance.parent = this;
 	this.instance.setTransform(-1.5,-1.5,0.5,0.5);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_16();
+	this.instance_1 = new lib.CachedTexturedBitmap_109();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-1.5,-1.5,0.5,0.5);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_17();
+	this.instance_2 = new lib.CachedTexturedBitmap_110();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(-1.5,-1.5,0.5,0.5);
 
@@ -255,9 +255,9 @@ lib.properties = {
 	color: "#CCFFCC",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/HolidayCard2019_TValdivia_atlas_.png?1576615211044", id:"HolidayCard2019_TValdivia_atlas_"},
-		{src:"images/HolidayCard2019_TValdivia_atlas_2.png?1576615211044", id:"HolidayCard2019_TValdivia_atlas_2"},
-		{src:"images/HolidayCard2019_TValdivia_atlas_3.png?1576615211044", id:"HolidayCard2019_TValdivia_atlas_3"}
+		{src:"images/HolidayCard2019_TValdivia_atlas_.png?1576772205828", id:"HolidayCard2019_TValdivia_atlas_"},
+		{src:"images/HolidayCard2019_TValdivia_atlas_2.png?1576772205829", id:"HolidayCard2019_TValdivia_atlas_2"},
+		{src:"images/HolidayCard2019_TValdivia_atlas_3.png?1576772205829", id:"HolidayCard2019_TValdivia_atlas_3"}
 	],
 	preloads: []
 };
