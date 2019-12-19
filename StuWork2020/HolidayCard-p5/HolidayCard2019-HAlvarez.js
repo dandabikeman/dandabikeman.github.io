@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"HolidayCard2019_HAlvarez_atlas_", frames: [[0,0,1740,1246],[1016,1248,506,206],[508,1248,506,206],[0,1248,506,206]]}
+		{name:"HolidayCard2019_HAlvarez_atlas_", frames: [[0,0,1740,1246],[508,1248,506,206],[1016,1248,506,206],[0,1248,506,206]]}
 ];
 
 
@@ -11,28 +11,28 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedTexturedBitmap_118 = function() {
+(lib.CachedTexturedBitmap_1095 = function() {
 	this.initialize(ss["HolidayCard2019_HAlvarez_atlas_"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_119 = function() {
+(lib.CachedTexturedBitmap_1096 = function() {
 	this.initialize(ss["HolidayCard2019_HAlvarez_atlas_"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_120 = function() {
+(lib.CachedTexturedBitmap_1097 = function() {
 	this.initialize(ss["HolidayCard2019_HAlvarez_atlas_"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_121 = function() {
+(lib.CachedTexturedBitmap_1098 = function() {
 	this.initialize(ss["HolidayCard2019_HAlvarez_atlas_"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
@@ -54,15 +54,15 @@ lib.ssMetadata = [
 	this.timeline.addTween(cjs.Tween.get(this.btnText).wait(4));
 
 	// Shape
-	this.instance = new lib.CachedTexturedBitmap_119();
+	this.instance = new lib.CachedTexturedBitmap_1096();
 	this.instance.parent = this;
 	this.instance.setTransform(-1.5,-1.5,0.5,0.5);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_120();
+	this.instance_1 = new lib.CachedTexturedBitmap_1097();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-1.5,-1.5,0.5,0.5);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_121();
+	this.instance_2 = new lib.CachedTexturedBitmap_1098();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(-1.5,-1.5,0.5,0.5);
 
@@ -98,7 +98,7 @@ p.nominalBounds = new cjs.Rectangle(-1.5,-1.5,253,103);
 		}
 	}
 	this.frame_39 = function() {
-		playSound("MerryChristmaswav");
+		playSound("MerryChristmasHAwav");
 	}
 
 	// actions tween:
@@ -114,7 +114,7 @@ p.nominalBounds = new cjs.Rectangle(-1.5,-1.5,253,103);
 	this.timeline.addTween(cjs.Tween.get(this.text).to({_off:true},1).wait(38).to({_off:false,x:338.05,y:125.05,text:"Merry Christmas!",font:"144px 'Times New Roman'",color:"#FFFFFF",lineHeight:161.45,lineWidth:1056},0).wait(11));
 
 	// Animation
-	this.instance = new lib.CachedTexturedBitmap_118();
+	this.instance = new lib.CachedTexturedBitmap_1095();
 	this.instance.parent = this;
 	this.instance.setTransform(426.3,334.7,0.5,0.5);
 
@@ -140,8 +140,8 @@ lib.properties = {
 	color: "#000000",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/HolidayCard2019_HAlvarez_atlas_.png?1576633022495", id:"HolidayCard2019_HAlvarez_atlas_"},
-		{src:"sounds/MerryChristmaswav.mp3?1576633022500", id:"MerryChristmaswav"}
+		{src:"images/HolidayCard2019_HAlvarez_atlas_.png?1576783504450", id:"HolidayCard2019_HAlvarez_atlas_"},
+		{src:"sounds/MerryChristmasHAwav.mp3?1576783504460", id:"MerryChristmasHAwav"}
 	],
 	preloads: []
 };
