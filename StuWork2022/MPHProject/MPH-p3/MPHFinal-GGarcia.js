@@ -592,7 +592,7 @@ p.nominalBounds = new cjs.Rectangle(-1,-1,89,132.6);
 
 
 // stage content:
-(lib.MPH3GGarcia = function(mode,startPosition,loop,reversed) {
+(lib.MPHFinalGGarcia = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
 	var props = new Object();
