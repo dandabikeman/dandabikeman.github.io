@@ -1460,7 +1460,7 @@ if (reversed == null) { reversed = false; }
 			this.shoes2.y = 542;
 			this.shoes3.x = 445;
 			this.shoes3.y = 543;
-			
+			createjs.Sound.stop(); 
 		}
 		this.Face2_btn.addEventListener("click", ClickFace2.bind(this));
 		
@@ -1869,7 +1869,7 @@ lib.properties = {
 	color: "#FCE2FF",
 	opacity: 1.00,
 	manifest: [
-		{src:"sounds/softsongbg.mp3?1653663204624", id:"softsongbg"}
+		{src:"sounds/softsongbg.mp3?1653689167181", id:"softsongbg"}
 	],
 	preloads: []
 };
