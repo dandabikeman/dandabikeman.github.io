@@ -891,6 +891,29 @@ if (reversed == null) { reversed = false; }
 			this.rHAND.x = 878;
 			this.rHAND.y = 326;
 		}
+		this.CAP.on("pressmove", dragMe);
+		this.NOSE.on("pressmove", dragMe);
+		this.LEAR.on("pressmove", dragMe);
+		this.rEAR.on("pressmove", dragMe);
+		this.eyes.on("pressmove", dragMe);
+		this.LBEYE.on("pressmove", dragMe);
+		this.BREYE.on("pressmove", dragMe);
+		this.cGLASSES.on("pressmove", dragMe);
+		this.dGLASSES.on("pressmove", dragMe);
+		this.lHAND.on("pressmove", dragMe);
+		this.rHAND.on("pressmove", dragMe);
+		this.nteeth.on("pressmove", dragMe);
+		this.teeth.on("pressmove", dragMe);
+		this.omouth.on("pressmove", dragMe);
+		this.Bhair.on("pressmove", dragMe);
+		this.pHAIR.on("pressmove", dragMe);
+		
+		
+		
+		function dragMe(evt) {
+			evt.currentTarget.x = evt.stageX/stage.scaleX;
+			evt.currentTarget.y = evt.stageY/stage.scaleY;
+		}
 	}
 
 	// actions tween:
