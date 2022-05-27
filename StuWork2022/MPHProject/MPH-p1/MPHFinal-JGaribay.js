@@ -1414,12 +1414,28 @@ if (reversed == null) { reversed = false; }
 		if(this.totalFrames == 1) {
 			this.isSingleFrame = true;
 		}
-		this.Chain.on("pressmove", dragMe);
+		this.Chain.addEventListener("pressmove", dragMe.bind(this));
+		this.bib.addEventListener("pressmove", dragMe.bind(this));
+		this.shirt.addEventListener("pressmove", dragMe.bind(this));
+		this.hat1.addEventListener("pressmove", dragMe.bind(this));
+		this.Hat2.addEventListener("pressmove", dragMe.bind(this));
+		this.Eye2.addEventListener("pressmove", dragMe.bind(this));
+		this.eye1.addEventListener("pressmove", dragMe.bind(this));
+		this.Nose.addEventListener("pressmove", dragMe.bind(this));
+		this.Watch.addEventListener("pressmove", dragMe.bind(this));
+		this.Mouth.addEventListener("pressmove", dragMe.bind(this));
+		this.shades.addEventListener("pressmove", dragMe.bind(this));
+		this.shades2.addEventListener("pressmove", dragMe.bind(this));
+		this.tail.addEventListener("pressmove", dragMe.bind(this));
+		this.ArmL.addEventListener("pressmove", dragMe.bind(this));
+		this.RArm.addEventListener("pressmove", dragMe.bind(this));
 		
 		function dragMe(evt) {
 			evt.currentTarget.x = evt.stageX/stage.scaleX;
 			evt.currentTarget.y = evt.stageY/stage.scaleY;
 		}
+		
+		
 		
 		
 		
@@ -1454,8 +1470,8 @@ if (reversed == null) { reversed = false; }
 			this.eye1.y = 63;
 			this.Eye2.x = 904;
 			this.Eye2.y = 63;
-			this.Shades.x = 864;
-			this.Shades.y = 247;
+			this.shades.x = 864;
+			this.shades.y = 247;
 			this.tail.x = 759;
 			this.tail.y = 351;
 			this.RArm.x = 872;

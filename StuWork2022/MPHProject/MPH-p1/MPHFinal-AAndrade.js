@@ -931,10 +931,10 @@ if (reversed == null) { reversed = false; }
 			this.eyes1.y = 65.5;
 			this.eyes2.x = 842.2;
 			this.eyes2.y = 74.4;
-			this.eyebrows1.x = 674.2;
-			this.eyebrows1.y = 120.25;
-			this.eyebrows2.x = 843.85;
-			this.eyebrows2.y = 118.35;
+			this.eyebrows2.x = 674.2;
+			this.eyebrows2.y = 120.25;
+			this.eyebrows1.x = 843.85;
+			this.eyebrows1.y = 118.35;
 			this.glasses1.x = 670.3;
 			this.glasses1.y = 181.6;
 			this.glasses2.x = 848.15;

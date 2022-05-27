@@ -1760,7 +1760,7 @@ p.nominalBounds = new cjs.Rectangle(-40.1,-32.8,86.2,81.69999999999999);
 
 
 // stage content:
-(lib.MPHFinalggalaviz = function(mode,startPosition,loop,reversed) {
+(lib.MPHFinalGGalaviz = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
 	var props = new Object();
