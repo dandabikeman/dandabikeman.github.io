@@ -711,18 +711,17 @@ if (reversed == null) { reversed = false; }
 		function ClickFace1() {
 			this.eyes1.x = 171;
 			this.eyes1.y = 184;
-			this.blush.x =170 ;
+			this.blush.x =170;
 			this.blush.y =219;
 			this.earmuffs1.x =168;
 			this.earmuffs1.y =150;
-			this.mouth3.x =172;
-			this.mouth3.y =261;
-			this.scarf.x =167;
-			this.scarf.y =331;
+			this.mouth3.x =172 ;
+			this.mouth3.y =261 ;
+			this.scarf.x =167 ;
+			this.scarf.y =331 ;
 			this.fish.x =290;
 			this.fish.y =410;
 		}
-		
 		this.btn2.addEventListener("click", ClickFace2.bind(this));
 		
 		function ClickFace2() {
@@ -738,9 +737,9 @@ if (reversed == null) { reversed = false; }
 			this.eyes3.y =189;
 		}
 		
-		this.btn3.addEventListener("click", ClickReset.bind(this));
+		this.btn3.addEventListener("click", ClickFace31.bind(this));
 		
-		function ClickReset() {
+		function ClickFace31() {
 			this.bowtie.x =832;
 			this.bowtie.y =44;
 			this.glasses2.x =841;
@@ -753,8 +752,6 @@ if (reversed == null) { reversed = false; }
 			this.eyes1.y =324;
 			this.eyes2.x =841;
 			this.eyes2.y =394;
-			this.blush.x =841;
-			this.blush.y =459;
 			this.beanie.x =843;
 			this.beanie.y =535;
 			this.purplehat.x =655;
@@ -771,15 +768,21 @@ if (reversed == null) { reversed = false; }
 			this.mouth1.y =293;
 			this.mouth2.x =704;
 			this.mouth2.y =324;
+			this.blush.x =842
+			this.blush.y =459
+		}
+		this.btn3.addEventListener("click", ClickFace46.bind(this));
+		
+		function ClickFace46() {
 			this.mouth3.x =703;
 			this.mouth3.y =369;
 		}
-		
-		this.glasses1.on("pressmove", dragMe);
+		this.bowtie.on("pressmove", dragMe); // When mc1 is pressed call dragMe function
 		this.glasses2.on("pressmove", dragMe);
+		this.glasses1.on("pressmove", dragMe);
+		this.eyes3.on("pressmove", dragMe);
 		this.eyes1.on("pressmove", dragMe);
 		this.eyes2.on("pressmove", dragMe);
-		this.eyes3.on("pressmove", dragMe);
 		this.blush.on("pressmove", dragMe);
 		this.beanie.on("pressmove", dragMe);
 		this.purplehat.on("pressmove", dragMe);
@@ -790,8 +793,7 @@ if (reversed == null) { reversed = false; }
 		this.mouth1.on("pressmove", dragMe);
 		this.mouth2.on("pressmove", dragMe);
 		this.mouth3.on("pressmove", dragMe);
-		this.bowtie.on("pressmove", dragMe);
-		
+		// Below is the definition of the function dragMe
 		function dragMe(evt) {
 			evt.currentTarget.x = evt.stageX/stage.scaleX;
 			evt.currentTarget.y = evt.stageY/stage.scaleY;
